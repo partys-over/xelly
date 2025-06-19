@@ -1,0 +1,6785 @@
+=== [gen71v1] energy ===
+
+poo poo (Registeel) @ Leftovers  
+Ability: Clear Body  
+EVs: 252 HP / 60 Def / 196 SpD  
+Calm Nature  
+IVs: 30 Spe  
+- Iron Defense  
+- Amnesia  
+- Seismic Toss  
+- Rest  
+
+pee pee (Whimsicott) @ Babiri Berry  
+Ability: Prankster  
+EVs: 88 HP / 228 Def / 192 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Protect  
+- Leech Seed  
+- Substitute  
+
+ligma balls (Dragonite) @ Waterium Z  
+Ability: Multiscale  
+EVs: 56 HP / 252 SpA / 200 Spe  
+Quiet Nature  
+- Surf  
+- Extreme Speed  
+- Roost  
+- Toxic  
+
+
+=== [gen71v1] ryy poo poo ===
+
+Comfey @ Leftovers  
+Ability: Triage  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Protect  
+- Synthesis  
+- Leech Seed  
+- Taunt  
+
+Sableye-Mega @ Sablenite  
+Ability: Prankster  
+EVs: 252 HP / 16 Def / 240 SpD  
+Impish Nature  
+IVs: 0 Atk  
+- Will-O-Wisp  
+- Foul Play  
+- Recover  
+- Snarl  
+
+Nihilego @ Rockium Z  
+Ability: Beast Boost  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Power Gem  
+- Acid Spray  
+- Sludge Wave  
+- Thunderbolt  
+
+
+=== [gen71v1] fat, gay ===
+
+Victini @ Choice Band  
+Ability: Victory Star  
+EVs: 108 HP / 212 Atk / 88 SpD / 100 Spe  
+Adamant Nature  
+- V-create  
+- Zen Headbutt  
+- Flame Charge  
+- Bolt Strike  
+
+Sableye-Mega @ Sablenite  
+Ability: Prankster  
+EVs: 248 HP / 48 Def / 212 SpD  
+Bold Nature  
+- Snarl  
+- Will-O-Wisp  
+- Foul Play  
+- Recover  
+
+Clefable @ Psychium Z  
+Ability: Unaware  
+EVs: 248 HP / 236 Def / 24 SpD  
+Bold Nature  
+- Magic Coat  
+- Moonblast  
+- Reflect  
+- Moonlight  
+
+
+=== [gen71v1] regiserp bad version ===
+
+Registeel @ Leftovers  
+Ability: Clear Body  
+EVs: 252 HP / 60 Def / 196 SpD  
+Calm Nature  
+IVs: 30 Spe  
+- Iron Defense  
+- Amnesia  
+- Seismic Toss  
+- Rest  
+
+Whimsicott @ Babiri Berry  
+Ability: Prankster  
+EVs: 88 HP / 228 Def / 192 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Protect  
+- Leech Seed  
+- Substitute  
+
+Dragonite @ Dragonium Z  
+Ability: Multiscale  
+EVs: 188 HP / 28 Atk / 120 Def / 172 Spe  
+Adamant Nature  
+- Outrage  
+- Dragon Dance  
+- Substitute  
+- Bulldoze  
+
+
+=== [gen71v1] AMPHETAMINE ===
+
+Heatran @ Firium Z  
+Ability: Flash Fire  
+EVs: 128 HP / 244 SpA / 4 SpD / 132 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Overheat  
+- Metal Sound  
+- Taunt  
+- Ancient Power  
+
+Tapu Fini @ Tapunium Z  
+Ability: Misty Surge  
+EVs: 248 HP / 44 Def / 216 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Blizzard  
+- Brine  
+- Icy Wind  
+
+Shaymin @ Normalium Z  
+Ability: Natural Cure  
+EVs: 248 HP / 20 Def / 156 SpA / 80 SpD / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Celebrate  
+- Seed Flare  
+- Earth Power  
+- Synthesis  
+
+
+=== [gen71v1] Untitled 591 ===
+
+big broken (Dragonite) @ Choice Scarf  
+Ability: Multiscale  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Outrage  
+- Iron Head  
+- Earthquake  
+- Fire Blast  
+
+medium broken (Dragonair) @ Firium Z  
+Ability: Marvel Scale  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Fire Blast  
+- Rest  
+- Sleep Talk  
+- Extreme Speed  
+
+small broken (Dratini) @ Custap Berry  
+Ability: Marvel Scale  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Endure  
+- Fire Blast  
+- Ice Beam  
+- Surf  
+
+
+=== [gen71v1] solar ooga booga ===
+
+Welcome to my mine (Greninja) @ Icium Z  
+Ability: Protean  
+EVs: 80 HP / 252 Def / 76 SpA / 100 Spe  
+Naive Nature  
+- Blizzard  
+- Gunk Shot  
+- Hidden Power [Fire]  
+- Rock Tomb  
+
+Ferrothorn @ Grassium Z  
+Ability: Iron Barbs  
+EVs: 252 HP / 100 Def / 72 SpD / 84 Spe  
+Impish Nature  
+IVs: 0 Spe  
+- Gyro Ball  
+- Power Whip  
+- Protect  
+- Leech Seed  
+
+pop star (Raikou) @ Electrium Z  
+Ability: Inner Focus  
+EVs: 144 SpA / 144 SpD / 220 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Laser Focus  
+- Zap Cannon  
+- Light Screen  
+
+
+=== [gen71v1] i fucking hate defensive dnite ===
+
+Greninja @ Petaya Berry  
+Ability: Torrent  
+EVs: 12 HP / 156 Def / 180 SpA / 160 Spe  
+Timid Nature  
+- Substitute  
+- Hydro Cannon  
+- Work Up  
+- Taunt  
+
+Dragonite @ Icium Z  
+Ability: Multiscale  
+EVs: 240 HP / 72 Def / 148 SpD / 48 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Thunder Wave  
+- Roost  
+- Whirlpool  
+- Haze  
+
+pifewojdlscnm (Magearna) @ Fairium Z  
+Ability: Soul-Heart  
+EVs: 248 HP / 16 SpA / 24 SpD / 220 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Iron Defense  
+- Pain Split  
+- Fleur Cannon  
+
+
+=== [gen71v1] firium dnite ===
+
+and the stars (Dragonite) @ Firium Z  
+Ability: Multiscale  
+EVs: 140 HP / 252 SpA / 116 Spe  
+Modest Nature  
+- Draco Meteor  
+- Protect  
+- Extreme Speed  
+- Fire Blast  
+
+feel colossal (Archeops) @ Choice Band  
+Ability: Defeatist  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Head Smash  
+- Outrage  
+- Fly  
+- Heat Wave  
+
+leave a trace (Greninja) @ Choice Specs  
+Ability: Protean  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Hydro Cannon  
+- Hidden Power [Electric]  
+- Gunk Shot  
+- Hyper Beam  
+
+
+=== [gen71v1] landot bandzera ===
+
+CLOUDS (Landorus-Therian) @ Groundium Z  
+Ability: Intimidate  
+EVs: 52 HP / 244 Atk / 76 Def / 136 Spe  
+Adamant Nature  
+- Substitute  
+- Swords Dance  
+- Earthquake  
+- Rock Tomb  
+
+ROLL THRU (Zeraora) @ Choice Band  
+Ability: Volt Absorb  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Plasma Fists  
+- Iron Tail  
+- Close Combat  
+- Outrage  
+
+NEVER KNOW (Slowbro) @ Slowbronite  
+Ability: Oblivious  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Slack Off  
+- Iron Defense  
+- Amnesia  
+
+
+=== [gen71v1] manarphy cave ===
+
+eden of the west ☯ (Manaphy) @ Normalium Z  
+Ability: Hydration  
+EVs: 208 HP / 192 SpA / 108 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Tail Glow  
+- Surf  
+- Hyper Beam  
+- Acid Armor  
+
+stargauze (Entei) @ Rockium Z  
+Ability: Pressure  
+Shiny: Yes  
+EVs: 252 HP / 216 Atk / 40 Def  
+Adamant Nature  
+- Stone Edge  
+- Sacred Fire  
+- Extreme Speed  
+- Bulldoze  
+
+never forget (Haxorus) @ Choice Band  
+Ability: Mold Breaker  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Outrage  
+- Poison Jab  
+- Iron Tail  
+- Superpower  
+
+
+=== [gen71v1] broken ===
+
+names they say (Gyarados-Mega) @ Gyaradosite  
+Ability: Mold Breaker  
+EVs: 104 HP / 180 Atk / 224 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Outrage  
+- Taunt  
+
+games we play (Dragonite) @ Flyinium Z  
+Ability: Multiscale  
+EVs: 144 HP / 252 SpA / 112 Spe  
+Modest Nature  
+- Hurricane  
+- Draco Meteor  
+- Fire Blast  
+- Extreme Speed  
+
+drug money (Serperior) @ Leftovers  
+Ability: Contrary  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Timid Nature  
+- Leaf Storm  
+- Protect  
+- Leech Seed  
+- Substitute  
+
+
+=== [gen71v1] fire water dnite ===
+
+Volcarona @ Buginium Z  
+Ability: Swarm  
+EVs: 52 Def / 224 SpA / 232 Spe  
+Timid Nature  
+- Bug Buzz  
+- Overheat  
+- Substitute  
+- Quiver Dance  
+
+Tapu Fini @ Tapunium Z  
+Ability: Misty Surge  
+EVs: 228 HP / 96 Def / 68 SpA / 116 Spe  
+Bold Nature  
+- Nature's Madness  
+- Taunt  
+- Brine  
+- Moonblast  
+
+Dragonite @ Flyinium Z  
+Ability: Multiscale  
+EVs: 192 HP / 136 Atk / 28 Def / 152 Spe  
+Adamant Nature  
+- Fly  
+- Earthquake  
+- Extreme Speed  
+- Dragon Dance  
+
+
+=== [gen71v1] i look good like my mom ===
+
+Tapu Lele @ Psychium Z  
+Ability: Psychic Surge  
+EVs: 248 HP / 32 SpA / 88 SpD / 140 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Reflect  
+- Moonblast  
+- Psychic  
+- Skill Swap  
+
+Charizard-Mega-X @ Charizardite X  
+Ability: Tough Claws  
+EVs: 232 HP / 232 SpD / 44 Spe  
+Jolly Nature  
+- Flame Charge  
+- Flare Blitz  
+- Outrage  
+- Will-O-Wisp  
+
+Dragonite @ Choice Scarf  
+Ability: Multiscale  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Superpower  
+- Earthquake  
+- Outrage  
+- Iron Head  
+
+
+=== [gen71v1] x y z ===
+
+Quagsire @ Normalium Z  
+Ability: Unaware  
+EVs: 248 HP / 84 Def / 176 SpD  
+Relaxed Nature  
+IVs: 0 Atk / 0 Spe  
+- Stockpile  
+- Recover  
+- Curse  
+- Scald  
+
+Naganadel @ Choice Specs  
+Ability: Beast Boost  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Sludge Wave  
+- Flamethrower  
+- Hidden Power [Rock]  
+
+Sableye @ Sablenite  
+Ability: Prankster  
+EVs: 248 HP / 8 Def / 252 SpD  
+Relaxed Nature  
+IVs: 0 Atk / 0 Spe  
+- Calm Mind  
+- Snarl  
+- Recover  
+- Will-O-Wisp  
+
+
+=== [gen71v1] Untitled 513 ===
+
+Starmie @ Psychium Z  
+Ability: Illuminate  
+EVs: 160 HP / 108 Def / 240 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Skill Swap  
+- Recover  
+- Ice Beam  
+- Cosmic Power  
+
+Serperior  
+Ability: Overgrow  
+EVs: 252 Spe  
+Hasty Nature  
+
+
+=== [gen71v1] ryy volc ===
+
+Altaria-Mega @ Altarianite  
+Ability: Cloud Nine  
+EVs: 248 HP / 100 Def / 152 SpD / 8 Spe  
+Calm Nature  
+- Cotton Guard  
+- Roost  
+- Hyper Voice  
+- Bulldoze  
+
+Magnezone @ Electrium Z  
+Ability: Sturdy  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Electroweb  
+- Zap Cannon  
+- Metal Sound  
+- Mirror Coat  
+
+Volcarona @ Buginium Z  
+Ability: Swarm  
+EVs: 240 HP / 32 Def / 216 SpD / 20 Spe  
+Calm Nature  
+- Quiver Dance  
+- Roost  
+- Bug Buzz  
+- Flamethrower  
+
+
+=== [gen71v1] epic cune ===
+
+uwu (Suicune) @ Leftovers  
+Ability: Pressure  
+Shiny: Yes  
+EVs: 252 HP / 108 Def / 4 SpD / 144 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Calm Mind  
+- Substitute  
+- Protect  
+
+macey (Haxorus) @ Choice Scarf  
+Ability: Mold Breaker  
+Shiny: Yes  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Superpower  
+- Iron Tail  
+- Outrage  
+
+:J (Genesect) @ Choice Specs  
+Ability: Download  
+EVs: 252 HP / 236 SpA / 4 SpD / 16 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Bug Buzz  
+- Flash Cannon  
+- Ice Beam  
+- Thunderbolt  
+
+
+=== [gen71v1] claydol ===
+
+Claydol @ Psychium Z  
+Ability: Levitate  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Magic Coat  
+- Reflect  
+- Charge Beam  
+- Rest  
+
+Dragonite @ Dragonium Z  
+Ability: Multiscale  
+EVs: 188 HP / 120 Atk / 28 Def / 172 Spe  
+Adamant Nature  
+- Outrage  
+- Dragon Dance  
+- Substitute  
+- Bulldoze  
+
+Shedinja @ Ghostium Z  
+Ability: Wonder Guard  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Phantom Force  
+- Will-O-Wisp  
+- X-Scissor  
+- Swords Dance  
+
+
+=== [gen71v1] ryy sab ===
+
+Garchomp @ Choice Band  
+Ability: Rough Skin  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Outrage  
+- Earthquake  
+- Rock Slide  
+- Poison Jab  
+
+Sableye-Mega @ Sablenite  
+Ability: Prankster  
+EVs: 248 HP / 252 SpD / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Recover  
+- Calm Mind  
+- Will-O-Wisp  
+- Foul Play  
+
+Tapu Bulu @ Grassium Z  
+Ability: Grassy Surge  
+EVs: 240 HP / 8 Atk / 124 SpD / 136 Spe  
+Adamant Nature  
+- Wood Hammer  
+- Taunt  
+- Swords Dance  
+- Rock Tomb  
+
+
+=== [gen71v1] boatman lose to pz heh ===
+
+Kommo-o @ Kommonium Z  
+Ability: Soundproof  
+EVs: 240 HP / 112 SpA / 100 SpD / 56 Spe  
+Calm Nature  
+- Clanging Scales  
+- Flamethrower  
+- Close Combat  
+- Dragon Claw  
+
+Heatran @ Grassium Z  
+Ability: Flash Fire  
+EVs: 120 HP / 252 SpA / 136 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Overheat  
+- Metal Sound  
+- Solar Beam  
+- Ancient Power  
+
+Metagross @ Metagrossite  
+Ability: Clear Body  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Meteor Mash  
+- Bullet Punch  
+- Earthquake  
+- Ice Punch  
+
+
+=== [gen71v1] program vapo ===
+
+Landorus-Therian @ Groundium Z  
+Ability: Intimidate  
+EVs: 52 HP / 244 Atk / 76 Def / 136 Spe  
+Adamant Nature  
+- Substitute  
+- Swords Dance  
+- Earthquake  
+- Rock Tomb  
+
+Gardevoir-Mega @ Gardevoirite  
+Ability: Trace  
+EVs: 240 HP / 44 SpA / 224 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Will-O-Wisp  
+- Calm Mind  
+- Psyshock  
+- Hyper Beam  
+
+Vaporeon @ Waterium Z  
+Ability: Hydration  
+EVs: 168 HP / 200 Def / 116 SpA / 24 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Fake Tears  
+- Yawn  
+- Protect  
+- Hydro Pump  
+
+
+=== [gen71v1] GRIMEY ===
+
+Kommo-o @ Kommonium Z  
+Ability: Soundproof  
+EVs: 240 HP / 28 SpA / 84 SpD / 156 Spe  
+Sassy Nature  
+- Clanging Scales  
+- Close Combat  
+- Flamethrower  
+- Dragon Claw  
+
+Tyranitar-Mega @ Tyranitarite  
+Ability: Sand Stream  
+EVs: 248 HP / 12 Atk / 36 Def / 44 SpD / 168 Spe  
+Adamant Nature  
+- Rock Tomb  
+- Crunch  
+- Counter  
+- Ice Punch  
+
+Serperior @ Leftovers  
+Ability: Contrary  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+- Leaf Storm  
+- Protect  
+- Leech Seed  
+- Substitute  
+
+
+=== [gen71v1] fat ===
+
+Charizard-Mega-X @ Charizardite X  
+Ability: Tough Claws  
+EVs: 232 HP / 232 SpD / 44 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Flare Blitz  
+- Outrage  
+- Will-O-Wisp  
+
+Tapu Lele @ Psychium Z  
+Ability: Psychic Surge  
+EVs: 248 HP / 232 Def / 28 SpD  
+Modest Nature  
+- Moonblast  
+- Psyshock  
+- Reflect  
+- Calm Mind  
+
+Serperior @ Leftovers  
+Ability: Contrary  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+- Leaf Storm  
+- Protect  
+- Leech Seed  
+- Substitute  
+
+
+=== [gen71v1] sawk lele ===
+
+Tapu Lele @ Psychium Z  
+Ability: Psychic Surge  
+EVs: 248 HP / 232 Def / 28 SpD  
+Modest Nature  
+- Moonblast  
+- Psyshock  
+- Reflect  
+- Calm Mind  
+
+Aegislash @ Ghostium Z  
+Ability: Stance Change  
+EVs: 252 HP / 4 Def / 252 SpA  
+Quiet Nature  
+- Shadow Ball  
+- King's Shield  
+- Shadow Sneak  
+- Laser Focus  
+
+Sawk @ Choice Scarf  
+Ability: Sturdy  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Close Combat  
+- Poison Jab  
+- Ice Punch  
+- Stone Edge  
+
+
+=== [gen71v1] double drag ===
+
+Altaria-Mega @ Altarianite  
+Ability: Pixilate  
+EVs: 252 HP / 36 Def / 28 SpA / 184 SpD / 8 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Cotton Guard  
+- Roost  
+- Hyper Voice  
+- Dragon Breath  
+
+Passimian @ Choice Scarf  
+Ability: Defiant  
+EVs: 212 Atk / 44 SpD / 252 Spe  
+Lonely Nature  
+IVs: 0 Def  
+- Superpower  
+- Gunk Shot  
+- Hidden Power [Ice]  
+- Earthquake  
+
+Dragonite @ Groundium Z  
+Ability: Multiscale  
+EVs: 52 HP / 252 Atk / 204 Spe  
+Adamant Nature  
+- Tailwind  
+- Earthquake  
+- Rock Tomb  
+- Extreme Speed  
+
+
+=== [gen71v1] togekiss togekiss ===
+
+Togekiss @ Fairium Z  
+Ability: Serene Grace  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Charm  
+- Roost  
+- Air Slash  
+- Nasty Plot  
+
+Garchomp  
+Ability: Sand Veil  
+
+
+=== [gen71v1] double fairysteel ===
+
+Magearna @ Air Balloon  
+Ability: Soul-Heart  
+EVs: 36 HP / 252 SpA / 220 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Fleur Cannon  
+- Flash Cannon  
+- Ice Beam  
+
+Mawile-Mega @ Mawilite  
+Ability: Intimidate  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Play Rough  
+- Iron Head  
+- Sucker Punch  
+- Metal Burst  
+
+Tyranitar-Mega @ Tyranitarite  
+Ability: Sand Stream  
+EVs: 76 HP / 252 Atk / 180 Spe  
+Adamant Nature  
+- Rock Tomb  
+- Crunch  
+- Counter  
+- Substitute  
+
+
+=== [gen71v1] raikou ===
+
+i know you (Gyarados-Mega) @ Gyaradosite  
+Ability: Mold Breaker  
+EVs: 104 HP / 180 Atk / 224 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Outrage  
+- Taunt  
+
+pop star (Raikou) @ Electrium Z  
+Ability: Inner Focus  
+EVs: 144 SpA / 144 SpD / 220 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Laser Focus  
+- Zap Cannon  
+- Reflect  
+
+Salamence @ Dragonium Z  
+Ability: Intimidate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Substitute  
+- Draco Meteor  
+- Rock Tomb  
+- Earthquake  
+
+
+=== [gen71v1] vs trace - g-something ===
+
+sky parade (Zapdos) @ Electrium Z  
+Ability: Static  
+EVs: 252 HP / 156 Def / 100 SpA  
+Modest Nature  
+IVs: 0 Atk  
+- Reflect  
+- Roost  
+- Thunder  
+- Hidden Power [Ice]  
+
+cave drip (Garchomp) @ Groundium Z  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Substitute  
+- Swords Dance  
+- Earthquake  
+- Rock Tomb  
+
+fall to earth (Cobalion) @ Choice Band  
+Ability: Justified  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Iron Head  
+- Poison Jab  
+- Stone Edge  
+
+
+=== [gen71v1] viv bad ===
+
+Vivillon @ Leftovers  
+Ability: Compound Eyes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sleep Powder  
+- Substitute  
+- Quiver Dance  
+- Hurricane  
+
+Sableye-Mega @ Sablenite  
+Ability: Prankster  
+EVs: 248 HP / 252 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Will-O-Wisp  
+- Recover  
+- Foul Play  
+
+Cobalion @ Rockium Z  
+Ability: Justified  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Iron Head  
+- Close Combat  
+- Stone Edge  
+
+
+=== [gen71v1] cottonee poopy ===
+
+Cottonee @ Bright Powder  
+Ability: Prankster  
+Level: 1  
+EVs: 1 Atk  
+IVs: 0 HP / 0 Atk  
+- Substitute  
+- Leech Seed  
+- Encore  
+- Grass Whistle  
+
+Heatran @ Firium Z  
+Ability: Flash Fire  
+EVs: 136 HP / 204 SpA / 168 Spe  
+Modest Nature  
+- Overheat  
+- Rock Tomb  
+- Earth Power  
+- Metal Sound  
+
+Gardevoir-Mega @ Gardevoirite  
+Ability: Trace  
+EVs: 240 HP / 44 SpA / 224 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Will-O-Wisp  
+- Calm Mind  
+- Psyshock  
+- Hyper Beam  
+
+
+=== [gen71v1] Untitled 2559 ===
+
+Donphan  
+Ability: Sturdy  
+EVs: 252 Spe  
+Jolly Nature  
+
+Serperior  
+Ability: Overgrow  
+IVs: 0 Atk  
+
+
+=== [gen71v1] Untitled 2555 ===
+
+Magearna @ Fairium Z  
+Ability: Soul-Heart  
+EVs: 248 HP / 208 Def / 20 SpA / 24 SpD / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Iron Defense  
+- Pain Split  
+- Fleur Cannon  
+
+Kyurem  
+Ability: Pressure  
+
+
+=== [gen71v1] bitch im a cow ===
+
+tryna make moves (Kyurem)  
+Ability: Pressure  
+Serious Nature  
+IVs: 0 Atk  
+
+bitch im a cow (Miltank) @ Ghostium Z  
+Ability: Thick Fat  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Curse  
+- Milk Drink  
+- Body Slam  
+- Bulldoze  
+
+too smooth (Magnezone) @ Electrium Z  
+Ability: Sturdy  
+EVs: 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Zap Cannon  
+- Electroweb  
+- Mirror Coat  
+- Metal Sound  
+
+
+=== [gen71v1] landon tour heat ===
+
+Blaziken @ Fightinium Z  
+Ability: Speed Boost  
+EVs: 200 HP / 252 Def / 56 SpA  
+Lax Nature  
+IVs: 30 Atk  
+- Hidden Power [Electric]  
+- Focus Blast  
+- Endure  
+- Rock Slide  
+
+Greninja @ Poisonium Z  
+Ability: Protean  
+EVs: 80 Atk / 108 SpA / 72 SpD / 248 Spe  
+Hasty Nature  
+- Gunk Shot  
+- Ice Beam  
+- Dark Pulse  
+- Rock Slide  
+
+Deoxys-Speed @ Wiki Berry  
+Ability: Pressure  
+EVs: 252 HP / 144 SpD / 112 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Taunt  
+- Iron Defense  
+- Amnesia  
+- Recover  
+
+
+=== [gen71v1] dual fire eq gyara ===
+
+Blacephalon @ Choice Specs  
+Ability: Beast Boost  
+EVs: 48 HP / 244 SpA / 216 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Mind Blown  
+- Shadow Ball  
+- Flamethrower  
+- Hidden Power [Ice]  
+
+Gyarados-Mega (F) @ Gyaradosite  
+Ability: Mold Breaker  
+EVs: 104 HP / 180 Atk / 224 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Outrage  
+- Earthquake  
+
+Talonflame @ Kee Berry  
+Ability: Gale Wings  
+EVs: 252 HP / 204 Def / 52 Spe  
+Jolly Nature  
+- Taunt  
+- Will-O-Wisp  
+- Roost  
+- Brave Bird  
+
+
+=== [gen71v1] bando hax ===
+
+Haxorus @ Choice Band  
+Ability: Mold Breaker  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Outrage  
+- Rock Slide  
+- Poison Jab  
+- Superpower  
+
+Victini @ Weakness Policy  
+Ability: Victory Star  
+EVs: 108 HP / 204 SpA / 196 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Sunny Day  
+- Solar Beam  
+- Blue Flare  
+- Psychic  
+
+
+=== [gen71v1] zaptran ===
+
+Registeel @ Leftovers  
+Ability: Clear Body  
+EVs: 252 HP / 60 Def / 196 SpD  
+Calm Nature  
+- Seismic Toss  
+- Iron Defense  
+- Amnesia  
+- Rest  
+
+Zapdos @ Electrium Z  
+Ability: Static  
+EVs: 252 HP / 156 Def / 100 SpA  
+Modest Nature  
+IVs: 0 Atk  
+- Reflect  
+- Roost  
+- Thunder  
+- Hidden Power [Ice]  
+
+Heatran @ Air Balloon  
+Ability: Flash Fire  
+EVs: 136 HP / 248 SpA / 4 SpD / 120 Spe  
+Modest Nature  
+- Overheat  
+- Rock Tomb  
+- Earth Power  
+- Taunt  
+
+
+=== [gen71v1] dual screens ===
+
+Toxapex @ Psychium Z  
+Ability: Merciless  
+EVs: 248 HP / 116 Def / 144 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Iron Defense  
+- Recover  
+- Light Screen  
+- Scald  
+
+Zapdos @ Electrium Z  
+Ability: Static  
+EVs: 252 HP / 156 Def / 100 SpA  
+Modest Nature  
+IVs: 0 Atk  
+- Reflect  
+- Roost  
+- Thunder  
+- Hidden Power [Ice]  
+
+Greninja @ Choice Specs  
+Ability: Protean  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Cannon  
+- Ice Beam  
+- Grass Knot  
+- Hidden Power [Steel]  
+
+
+=== [gen71v1] bishie ===
+
+Bisharp @ Darkinium Z  
+Ability: Defiant  
+EVs: 248 HP / 24 Atk / 124 SpD / 112 Spe  
+Jolly Nature  
+- Foul Play  
+- Sucker Punch  
+- Iron Head  
+- Rock Tomb  
+
+Tapu Lele @ Psychium Z  
+Ability: Psychic Surge  
+EVs: 248 HP / 88 Def / 172 SpA  
+Modest Nature  
+IVs: 0 Atk  
+- Reflect  
+- Psyshock  
+- Moonblast  
+- Calm Mind  
+
+Camerupt-Mega @ Cameruptite  
+Ability: Solid Rock  
+EVs: 248 HP / 156 Def / 96 SpA / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Earth Power  
+- Ancient Power  
+- Substitute  
+
+
+=== [gen71v1] MAKIN BANDS ===
+
+Sableye-Mega @ Sablenite  
+Ability: Prankster  
+EVs: 252 HP / 180 Def / 64 SpD / 12 Spe  
+Impish Nature  
+IVs: 0 Atk  
+- Will-O-Wisp  
+- Taunt  
+- Recover  
+- Foul Play  
+
+Entei @ Rockium Z  
+Ability: Pressure  
+Shiny: Yes  
+EVs: 252 HP / 216 Atk / 40 Def  
+Adamant Nature  
+- Stone Edge  
+- Sacred Fire  
+- Extreme Speed  
+- Laser Focus  
+
+Empoleon @ Choice Specs  
+Ability: Torrent  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Hydro Cannon  
+- Flash Cannon  
+- Grass Knot  
+- Ice Beam  
+
+
+=== [gen71v1] scarf fini wave ===
+
+Tapu Fini @ Choice Scarf  
+Ability: Misty Surge  
+EVs: 136 HP / 208 SpA / 164 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Moonblast  
+- Surf  
+- Hidden Power [Rock]  
+
+Landorus-Therian @ Groundium Z  
+Ability: Intimidate  
+EVs: 252 Atk / 48 Def / 208 Spe  
+Jolly Nature  
+- Swords Dance  
+- Substitute  
+- Rock Tomb  
+- Earthquake  
+
+Metagross-Mega @ Metagrossite  
+Ability: Tough Claws  
+EVs: 52 HP / 252 Atk / 204 Spe  
+Adamant Nature  
+- Hammer Arm  
+- Bullet Punch  
+- Meteor Mash  
+- Thunder Punch  
+
+
+=== [gen71v1] heater ===
+
+Aromatisse @ Iapapa Berry  
+Ability: Aroma Veil  
+EVs: 252 HP / 40 Def / 216 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Charm  
+- Rain Dance  
+- Moonblast  
+- Rest  
+
+Volcarona @ Buginium Z  
+Ability: Swarm  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Substitute  
+- Quiver Dance  
+- Fire Blast  
+- Bug Buzz  
+
+Jumpluff @ Wide Lens  
+Ability: Chlorophyll  
+EVs: 52 HP / 204 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sleep Powder  
+- Substitute  
+- Leech Seed  
+- Protect  
+
+
+=== [gen71v1] yourimity ===
+
+Porygon-Z @ Normalium Z  
+Ability: Adaptability  
+EVs: 212 Def / 68 SpA / 228 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shadow Ball  
+- Recover  
+- Hyper Beam  
+- Conversion  
+
+Victini @ Choice Scarf  
+Ability: Victory Star  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- V-create  
+- Zen Headbutt  
+- Bolt Strike  
+- Return  
+
+Bae Leef (Bayleef) @ Eviolite  
+Ability: Overgrow  
+EVs: 252 HP / 248 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Leech Seed  
+- Substitute  
+- Synthesis  
+- Counter  
+
+
+=== [gen71v1] Untitled 2511 ===
+
+Greninja @ Normalium Z  
+Ability: Protean  
+EVs: 136 HP / 252 SpA / 120 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Happy Hour  
+- Hydro Cannon  
+- Rain Dance  
+- Hyper Beam  
+
+
+=== [gen71v1] gooeydra ===
+
+Goodra @ Haban Berry  
+Ability: Gooey  
+EVs: 248 HP / 88 Def / 72 SpA / 100 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Hidden Power [Rock]  
+- Fire Blast  
+- Protect  
+
+Magnezone @ Electrium Z  
+Ability: Sturdy  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Metal Sound  
+- Thunder  
+- Electroweb  
+- Mirror Coat  
+
+Clefable @ Babiri Berry  
+Ability: Magic Guard  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Counter  
+- Soft-Boiled  
+- Moonblast  
+- Thunderbolt  
+
+
+=== [gen71v1] Untitled 2509 ===
+
+Abomasnow @ Abomasite  
+Ability: Soundproof  
+EVs: 248 HP / 216 Def / 44 SpA  
+Relaxed Nature  
+- Protect  
+- Blizzard  
+- Giga Drain  
+- Ice Shard  
+
+Heatran @ Air Balloon  
+Ability: Flash Fire  
+EVs: 128 HP / 252 SpA / 128 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Overheat  
+- Ancient Power  
+- Flash Cannon  
+- Taunt  
+
+
+=== [gen71v1] Untitled 2507 ===
+
+Blissey  
+Ability: Natural Cure  
+IVs: 0 Atk  
+
+Sawk  
+Ability: Sturdy  
+EVs: 252 Spe  
+
+
+=== [gen71v1] maw blisssss ===
+
+cave drip (Mawile-Mega) @ Mawilite  
+Ability: Intimidate  
+EVs: 240 HP / 248 Atk / 16 SpD / 4 Spe  
+Adamant Nature  
+- Taunt  
+- Play Rough  
+- Iron Head  
+- Sucker Punch  
+
+despair (Blissey) @ Psychium Z  
+Ability: Healer  
+Shiny: Yes  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+- Reflect  
+- Seismic Toss  
+- Soft-Boiled  
+- Confide  
+
+cloud scroll ☁ (Landorus-Therian) @ Groundium Z  
+Ability: Intimidate  
+EVs: 248 HP / 52 Atk / 96 Def / 112 Spe  
+Jolly Nature  
+- Substitute  
+- Swords Dance  
+- Earthquake  
+- Rock Tomb  
+
+
+=== [gen71v1] necro ===
+
+Necrozma @ Choice Specs  
+Ability: Prism Armor  
+EVs: 252 HP / 16 Def / 228 SpA / 12 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Photon Geyser  
+- Prismatic Laser  
+- Heat Wave  
+- Signal Beam  
+
+Altaria-Mega @ Altarianite  
+Ability: Pixilate  
+EVs: 252 HP / 36 Def / 28 SpA / 184 SpD / 8 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Cotton Guard  
+- Roost  
+- Hyper Voice  
+- Dragon Breath  
+
+Heatran @ Air Balloon  
+Ability: Flash Fire  
+EVs: 136 HP / 244 SpA / 128 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Overheat  
+- Ancient Power  
+- Taunt  
+- Hidden Power [Ice]  
+
+
+=== [gen71v1] poopy ===
+
+Scolipede @ Poisonium Z  
+Ability: Speed Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Protect  
+- Swords Dance  
+- Megahorn  
+- Poison Jab  
+
+Gyarados-Mega @ Gyaradosite  
+Ability: Mold Breaker  
+EVs: 188 HP / 104 Atk / 88 SpD / 128 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Outrage  
+- Taunt  
+
+Zygarde @ Groundium Z  
+Ability: Power Construct  
+EVs: 240 HP / 72 Atk / 128 Def / 68 Spe  
+Impish Nature  
+- Coil  
+- Dragon Dance  
+- Thousand Arrows  
+- Outrage  
+
+
+=== [gen71v1] confide gear ===
+
+Magearna @ Fairium Z  
+Ability: Soul-Heart  
+EVs: 248 HP / 208 Def / 20 SpA / 24 SpD / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Confide  
+- Pain Split  
+- Fleur Cannon  
+
+Tyranitar-Mega @ Tyranitarite  
+Ability: Sand Stream  
+EVs: 248 HP / 8 Atk / 72 Def / 180 Spe  
+Adamant Nature  
+- Rock Tomb  
+- Crunch  
+- Avalanche  
+- Fire Punch  
+
+Porygon-Z @ Choice Scarf  
+Ability: Adaptability  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hyper Beam  
+- Uproar  
+- Trick  
+- Ice Beam  
+
+
+=== [gen71v1] you'll find something waiting ===
+
+Slurpuff @ Iapapa Berry  
+Ability: Unburden  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Cotton Guard  
+- Draining Kiss  
+- Fake Tears  
+
+Garchomp @ Groundium Z  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Substitute  
+- Swords Dance  
+- Earthquake  
+- Rock Tomb  
+
+Magnezone @ Electrium Z  
+Ability: Sturdy  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunder  
+- Electroweb  
+- Metal Sound  
+- Mirror Coat  
+
+
+=== [gen71v1] dusclops ===
+
+inner demons (Dusclops) @ Eviolite  
+Ability: Pressure  
+EVs: 248 HP / 216 Def / 44 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Will-O-Wisp  
+- Rest  
+- Seismic Toss  
+- Spite  
+
+faith in myself (Blissey) @ Fairium Z  
+Ability: Serene Grace  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Charm  
+- Soft-Boiled  
+- Flamethrower  
+
+real mic right now (Aggron) @ Rockium Z  
+Ability: Sturdy  
+Shiny: Yes  
+EVs: 164 HP / 252 Atk / 92 Spe  
+Adamant Nature  
+- Heavy Slam  
+- Whirlpool  
+- Head Smash  
+- Earthquake  
+
+
+=== [gen71v1] win ===
+
+Metagross-Mega @ Metagrossite  
+Ability: Clear Body  
+EVs: 252 HP / 80 Atk / 28 Def / 20 SpD / 128 Spe  
+Impish Nature  
+- Thunder Punch  
+- Hammer Arm  
+- Bullet Punch  
+- Meteor Mash  
+
+Tapu Lele @ Psychium Z  
+Ability: Psychic Surge  
+EVs: 248 HP / 88 Def / 28 SpD / 144 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Reflect  
+- Psychic  
+- Moonblast  
+
+Heatran @ Air Balloon  
+Ability: Flash Fire  
+EVs: 124 HP / 252 SpA / 132 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Overheat  
+- Ancient Power  
+- Taunt  
+- Hidden Power [Ice]  
+
+
+=== [gen71v1] non dongsauce maroa team ===
+
+TICK TOCK MISSIN (Marowak-Alola) @ Thick Club  
+Ability: Lightning Rod  
+EVs: 248 HP / 252 Atk / 8 Spe  
+Adamant Nature  
+- Counter  
+- Flare Blitz  
+- Shadow Bone  
+- Stone Edge  
+
+BRING IT IN (Gyarados-Mega) @ Gyaradosite  
+Ability: Mold Breaker  
+EVs: 188 HP / 104 Atk / 88 SpD / 128 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Outrage  
+- Stone Edge  
+
+KNOW THE PRICE (Genesect) @ Choice Specs  
+Ability: Download  
+EVs: 64 Def / 212 SpA / 232 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Flash Cannon  
+- Flamethrower  
+- Thunderbolt  
+- Ice Beam  
+
+
+=== [gen71v1] slowking fwg ===
+
+Slowking @ Waterium Z  
+Ability: Oblivious  
+EVs: 252 HP / 120 Def / 128 SpD / 8 Spe  
+Calm Nature  
+- Calm Mind  
+- Slack Off  
+- Scald  
+- Counter  
+
+Entei @ Rockium Z  
+Ability: Pressure  
+Shiny: Yes  
+EVs: 252 HP / 216 Atk / 40 Def  
+Adamant Nature  
+- Stone Edge  
+- Sacred Fire  
+- Extreme Speed  
+- Bulldoze  
+
+Shaymin @ Choice Specs  
+Ability: Natural Cure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Seed Flare  
+- Earth Power  
+- Psychic  
+- Hidden Power [Ice]  
+
+
+=== [gen71v1] mimikyu that beats landot ===
+
+Mimikyu @ Mimikium Z  
+Ability: Disguise  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Shadow Sneak  
+- Will-O-Wisp  
+- Play Rough  
+- Psych Up  
+
+Tyranitar-Mega @ Tyranitarite  
+Ability: Sand Stream  
+EVs: 248 HP / 8 Atk / 72 Def / 180 Spe  
+Adamant Nature  
+- Rock Tomb  
+- Crunch  
+- Counter  
+- Iron Tail  
+
+
+=== [gen71v1] g2sel  cteam ===
+
+Landorus-Therian @ Groundium Z  
+Ability: Intimidate  
+EVs: 64 Atk / 196 Def / 248 Spe  
+Jolly Nature  
+- Swords Dance  
+- Grass Knot  
+- Earthquake  
+- Rock Tomb  
+
+Heatran @ Grassium Z  
+Ability: Flash Fire  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Overheat  
+- Solar Beam  
+- Ancient Power  
+- Will-O-Wisp  
+
+Slowbro @ Slowbronite  
+Ability: Oblivious  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Protect  
+- Slack Off  
+- Scald  
+- Amnesia  
+
+
+=== [gen71v1] mamo cobalion ===
+
+despair (Mamoswine) @ Groundium Z  
+Ability: Thick Fat  
+EVs: 192 Atk / 208 Def / 108 Spe  
+Adamant Nature  
+- Rock Tomb  
+- Earthquake  
+- Icicle Spear  
+- Icicle Crash  
+
+cloud scroll ☁ (Altaria-Mega) @ Altarianite  
+Ability: Pixilate  
+EVs: 252 HP / 36 Def / 28 SpA / 184 SpD / 8 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Dragon Breath  
+- Hyper Voice  
+- Roost  
+- Cotton Guard  
+
+eden of the west (Cobalion) @ Choice Band  
+Ability: Justified  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Iron Head  
+- Stone Edge  
+- Zen Headbutt  
+
+
+=== [gen71v1] because who the fuck knows why ===
+
+REEL IT IN (Latias-Mega) @ Latiasite  
+Ability: Levitate  
+EVs: 252 HP / 80 Def / 176 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Roost  
+- Reflect Type  
+- Surf  
+
+BLACKJACK (Clefable) @ Fairium Z  
+Ability: Magic Guard  
+EVs: 252 HP / 172 Def / 84 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Charm  
+- Soft-Boiled  
+- Moonblast  
+- Amnesia  
+
+RATCHETSATURNGIRL (Tyranitar-Mega) @ Tyranitarite  
+Ability: Unnerve  
+EVs: 248 HP / 8 Atk / 72 Def / 180 Spe  
+Adamant Nature  
+- Rock Tomb  
+- Crunch  
+- Screech  
+- Iron Tail  
+
+
+=== [gen71v1] scarf lele ===
+
+Tapu Lele @ Choice Scarf  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Moonblast  
+- Focus Blast  
+- Thunderbolt  
+
+Landorus-Therian @ Groundium Z  
+Ability: Intimidate  
+EVs: 248 HP / 52 Atk / 96 Def / 112 Spe  
+Jolly Nature  
+- Substitute  
+- Swords Dance  
+- Earthquake  
+- Rock Tomb  
+
+Tyrantrum @ Choice Scarf  
+Ability: Rock Head  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Head Smash  
+- Earthquake  
+- Outrage  
+- Fire Fang  
+
+
+=== [gen71v1] dong ===
+
+Scrafty (M) @ Fightinium Z  
+Ability: Intimidate  
+EVs: 248 HP / 88 Atk / 172 Def  
+Impish Nature  
+- Taunt  
+- High Jump Kick  
+- Crunch  
+- Bulk Up  
+
+Nidoqueen @ Poisonium Z  
+Ability: Sheer Force  
+EVs: 176 HP / 252 SpA / 80 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Taunt  
+- Earth Power  
+- Sludge Wave  
+- Counter  
+
+Archeops @ Choice Band  
+Ability: Defeatist  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Head Smash  
+- Rock Slide  
+- Fly  
+- Outrage  
+
+
+=== [gen71v1] double drag ===
+
+Zygarde @ Haban Berry  
+Ability: Power Construct  
+EVs: 240 HP / 72 Atk / 128 Def / 68 Spe  
+Impish Nature  
+- Coil  
+- Dragon Dance  
+- Thousand Arrows  
+- Outrage  
+
+Mawile-Mega @ Mawilite  
+Ability: Intimidate  
+EVs: 248 HP / 252 Atk / 8 Spe  
+Adamant Nature  
+- Taunt  
+- Play Rough  
+- Iron Head  
+- Sucker Punch  
+
+Naganadel @ Choice Specs  
+Ability: Beast Boost  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Sludge Wave  
+- Fire Blast  
+- Hidden Power [Rock]  
+
+
+=== [gen71v1] taunt that lanturn ===
+
+sur la plage (Lanturn) @ Electrium Z  
+Ability: Volt Absorb  
+EVs: 252 SpA / 124 SpD / 132 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Soak  
+- Charge  
+- Thunder  
+- Hydro Pump  
+
+don't leave (Golem) @ Groundium Z  
+Ability: Sturdy  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Sucker Punch  
+- Rock Tomb  
+- Counter  
+
+palm trees (Whimsicott) @ Occa Berry  
+Ability: Prankster  
+EVs: 236 HP / 164 Def / 104 SpD / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Taunt  
+- Substitute  
+- Leech Seed  
+- Protect  
+
+
+=== [gen71v1] LEGENDY ===
+
+Mew @ Kee Berry  
+Ability: Synchronize  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Jolly Nature  
+IVs: 0 Atk  
+- Taunt  
+- Will-O-Wisp  
+- Roost  
+- Seismic Toss  
+
+Heatran @ Air Balloon  
+Ability: Flash Fire  
+EVs: 124 HP / 252 SpA / 132 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Taunt  
+- Ancient Power  
+- Overheat  
+- Hidden Power [Ice]  
+
+Pheromosa @ Choice Band  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- High Jump Kick  
+- Double Kick  
+- Lunge  
+- Poison Jab  
+
+
+=== [gen71v1] DR WHOEVER ===
+
+DR WHOEVER (Magearna) @ Fairium Z  
+Ability: Soul-Heart  
+EVs: 248 HP / 208 Def / 20 SpA / 24 SpD / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Iron Defense  
+- Pain Split  
+- Fleur Cannon  
+
+REEL IT IN (Entei) @ Rockium Z  
+Ability: Pressure  
+Shiny: Yes  
+EVs: 36 HP / 216 Atk / 252 Def / 4 Spe  
+Adamant Nature  
+- Sacred Fire  
+- Stone Edge  
+- Extreme Speed  
+- Reflect  
+
+SHINE (Celebi) @ Choice Specs  
+Ability: Natural Cure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Leaf Storm  
+- Hidden Power [Ice]  
+- Psychic  
+- Earth Power  
+
+
+=== [gen71v1] zap ===
+
+sky parade (Zapdos) @ Electrium Z  
+Ability: Static  
+EVs: 252 HP / 156 Def / 100 SpA  
+Modest Nature  
+IVs: 0 Atk  
+- Reflect  
+- Roost  
+- Thunder  
+- Hidden Power [Ice]  
+
+cave drip (Garchomp) @ Groundium Z  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Substitute  
+- Swords Dance  
+- Earthquake  
+- Outrage  
+
+fall to earth (Cobalion) @ Choice Band  
+Ability: Justified  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Iron Head  
+- Poison Jab  
+- Stone Edge  
+
+
+=== [gen71v1] scarf gear ===
+
+Magearna @ Choice Scarf  
+Ability: Soul-Heart  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Fleur Cannon  
+- Flash Cannon  
+- Focus Blast  
+- Thunderbolt  
+
+Camerupt-Mega @ Cameruptite  
+Ability: Solid Rock  
+EVs: 248 HP / 156 Def / 96 SpA / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Earth Power  
+- Ancient Power  
+- Substitute  
+
+Mew @ Kee Berry  
+Ability: Synchronize  
+EVs: 4 SpD / 252 Spe  
+Jolly Nature  
+IVs: 0 Atk  
+- Taunt  
+- Will-O-Wisp  
+- Seismic Toss  
+- Soft-Boiled  
+
+
+=== [gen71v1] hax ===
+
+Haxorus @ Choice Scarf  
+Ability: Mold Breaker  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Outrage  
+- Poison Jab  
+- Iron Tail  
+- Superpower  
+
+Mew @ Kee Berry  
+Ability: Synchronize  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Jolly Nature  
+IVs: 0 Atk  
+- Taunt  
+- Will-O-Wisp  
+- Soft-Boiled  
+- Seismic Toss  
+
+Excadrill @ Groundium Z  
+Ability: Mold Breaker  
+EVs: 252 Atk / 252 Spe  
+Jolly Nature  
+- Substitute  
+- Swords Dance  
+- Earthquake  
+- Iron Head  
+
+
+=== [gen71v1] poisonium hax ===
+
+Haxorus @ Poisonium Z  
+Ability: Mold Breaker  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Taunt  
+- Outrage  
+- Earthquake  
+- Poison Jab  
+
+Heatran @ Air Balloon  
+Ability: Flash Fire  
+EVs: 124 HP / 252 SpA / 132 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Taunt  
+- Ancient Power  
+- Overheat  
+- Hidden Power [Ice]  
+
+Gallade-Mega @ Galladite  
+Ability: Steadfast  
+EVs: 124 HP / 176 Atk / 208 Spe  
+Adamant Nature  
+- Taunt  
+- Bulk Up  
+- Drain Punch  
+- Zen Headbutt  
+
+
+=== [gen71v1] icium kyurem [this team is fucking awful] ===
+
+Tapu Lele @ Psychium Z  
+Ability: Psychic Surge  
+EVs: 248 HP / 64 Def / 196 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Psychic  
+- Calm Mind  
+- Moonblast  
+- Taunt  
+
+Kyurem @ Icium Z  
+Ability: Pressure  
+EVs: 224 HP / 136 Def / 148 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Noble Roar  
+- Roost  
+- Blizzard  
+- Earth Power  
+
+Aegislash @ Ghostium Z  
+Ability: Stance Change  
+EVs: 248 HP / 12 Atk / 24 Def / 188 SpA / 36 SpD  
+Quiet Nature  
+- Shadow Ball  
+- Laser Focus  
+- Shadow Sneak  
+- King's Shield  
+
+
+=== [gen71v1] grassium tran. ===
+
+Heatran @ Grassium Z  
+Ability: Flash Fire  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Overheat  
+- Solar Beam  
+- Ancient Power  
+- Will-O-Wisp  
+
+Swampert-Mega @ Swampertite  
+Ability: Swift Swim  
+EVs: 248 HP / 152 Atk / 104 SpD / 4 Spe  
+Adamant Nature  
+- Yawn  
+- Protect  
+- Ice Punch  
+- Earthquake  
+
+Aegislash @ Ghostium Z  
+Ability: Stance Change  
+EVs: 248 HP / 252 SpA / 8 SpD  
+Quiet Nature  
+IVs: 0 Spe  
+- King's Shield  
+- Shadow Ball  
+- Shadow Sneak  
+- Metal Sound  
+
+
+=== [gen71v1] groundium kyurem ===
+
+Kyurem @ Groundium Z  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Substitute  
+- Ice Beam  
+- Earth Power  
+- Laser Focus  
+
+Porygon-Z @ Normalium Z  
+Ability: Adaptability  
+EVs: 116 HP / 200 SpA / 192 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Shadow Ball  
+- Conversion  
+- Recover  
+- Hyper Beam  
+
+Aggron @ Rockium Z  
+Ability: Sturdy  
+EVs: 248 HP / 252 Atk / 8 SpA  
+Naughty Nature  
+IVs: 0 SpD  
+- Head Smash  
+- Heavy Slam  
+- Whirlpool  
+- Metal Burst  
+
+
+=== [gen71v1] curse sciz + lures ===
+
+Victini @ Psychium Z  
+Ability: Victory Star  
+EVs: 140 HP / 252 SpA / 116 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Psychic  
+- Blue Flare  
+- Will-O-Wisp  
+- Glaciate  
+
+Scizor-Mega @ Scizorite  
+Ability: Light Metal  
+EVs: 252 HP / 252 Atk / 4 Spe  
+Adamant Nature  
+- Curse  
+- Roost  
+- Bullet Punch  
+- Laser Focus  
+
+Kyurem  
+Ability: Pressure  
+
+
+=== [gen71v1] triple eeveelution ===
+
+Umbreon @ Fairium Z  
+Ability: Synchronize  
+EVs: 252 HP / 252 Def / 4 Spe  
+Impish Nature  
+IVs: 0 Atk  
+- Charm  
+- Moonlight  
+- Foul Play  
+- Rain Dance  
+
+Flareon @ Firium Z  
+Ability: Flash Fire  
+EVs: 204 HP / 252 Atk / 52 Spe  
+Adamant Nature  
+- Protect  
+- Substitute  
+- Yawn  
+- Flare Blitz  
+
+Sylveon @ Choice Specs  
+Ability: Pixilate  
+EVs: 80 HP / 252 SpA / 176 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hyper Beam  
+- Hyper Voice  
+- Hidden Power [Rock]  
+- Psyshock  
+
+
+=== [gen71v1] galv ===
+
+Zeraora @ Electrium Z  
+Ability: Volt Absorb  
+EVs: 32 HP / 248 Atk / 228 Spe  
+Adamant Nature  
+- Fake Out  
+- Bulk Up  
+- Charge  
+- Plasma Fists  
+
+Klefki @ Fairium Z  
+Ability: Prankster  
+EVs: 252 HP / 224 Def / 16 SpA / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Magnet Rise  
+- Calm Mind  
+- Flash Cannon  
+- Dazzling Gleam  
+
+Garchomp @ Groundium Z  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Substitute  
+- Swords Dance  
+- Earthquake  
+- Rock Tomb  
+
+
+=== [gen71v1] double drag + lickilicky ===
+
+Zygarde @ Groundium Z  
+Ability: Power Construct  
+EVs: 240 HP / 72 Atk / 128 Def / 68 Spe  
+Impish Nature  
+- Coil  
+- Dragon Dance  
+- Thousand Arrows  
+- Outrage  
+
+Lickilicky @ Iapapa Berry  
+Ability: Oblivious  
+EVs: 248 HP / 8 Def / 252 SpD  
+Calm Nature  
+- Toxic  
+- Amnesia  
+- Rest  
+- Fire Punch  
+
+Haxorus @ Choice Band  
+Ability: Mold Breaker  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Outrage  
+- Poison Jab  
+- Superpower  
+- Earthquake  
+
+
+=== [gen71v1] gyff dualdance lax ===
+
+william (Snorlax)  
+Ability: Immunity  
+
+Do Not Touch (Charizard-Mega-X) @ Charizardite X  
+Ability: Tough Claws  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Flame Charge  
+- Outrage  
+- Flare Blitz  
+
+Invasion (Tapu Lele) @ Psychium Z  
+Ability: Psychic Surge  
+EVs: 168 HP / 192 SpA / 148 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Taunt  
+- Reflect  
+- Psyshock  
+- Moonblast  
+
+
+=== [gen71v1] pyuku ===
+
+Haxorus @ Choice Scarf  
+Ability: Mold Breaker  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Outrage  
+- Superpower  
+- Iron Tail  
+- Poison Jab  
+
+Pyukumuku @ Psychium Z  
+Ability: Unaware  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Soak  
+- Toxic  
+- Recover  
+- Light Screen  
+
+Metagross-Mega @ Metagrossite  
+Ability: Clear Body  
+EVs: 252 HP / 80 Atk / 28 Def / 20 SpD / 128 Spe  
+Impish Nature  
+- Meteor Mash  
+- Bullet Punch  
+- Thunder Punch  
+- Substitute  
+
+
+=== [gen71v1] mewgolem ===
+
+Mew @ Kee Berry  
+Ability: Synchronize  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Taunt  
+- Seismic Toss  
+- Will-O-Wisp  
+- Roost  
+
+Golem @ Groundium Z  
+Ability: Sturdy  
+EVs: 252 Atk / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Rock Blast  
+- Protect  
+- Sucker Punch  
+
+Metagross-Mega @ Metagrossite  
+Ability: Tough Claws  
+EVs: 56 HP / 248 Atk / 204 Spe  
+Adamant Nature  
+- Meteor Mash  
+- Bullet Punch  
+- Hammer Arm  
+- Laser Focus  
+
+
+=== [gen71v1] ryy stallnite ===
+
+Dragonite @ Icium Z  
+Ability: Multiscale  
+EVs: 252 HP / 92 Def / 4 SpA / 124 SpD / 36 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Thunder Wave  
+- Roost  
+- Whirlpool  
+- Haze  
+
+Skarmory @ Flyinium Z  
+Ability: Sturdy  
+Happiness: 0  
+EVs: 60 HP / 252 Atk / 196 Spe  
+Adamant Nature  
+- Brave Bird  
+- Rock Tomb  
+- Taunt  
+- Swords Dance  
+
+Venusaur-Mega @ Venusaurite  
+Ability: Thick Fat  
+EVs: 252 HP / 72 Def / 80 SpA / 104 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Synthesis  
+- Charm  
+- Leech Seed  
+- Sludge Bomb  
+
+
+=== [gen71v1] rideyawave ===
+
+hell (Ferrothorn) @ Steelium Z  
+Ability: Iron Barbs  
+Shiny: Yes  
+EVs: 252 HP / 180 Atk / 76 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Gyro Ball  
+- Power Whip  
+- Protect  
+- Leech Seed  
+
+insanity (Deoxys-Speed) @ Choice Specs  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Thunderbolt  
+- Focus Blast  
+- Ice Beam  
+
+dangerous (Golem) (F) @ Rockium Z  
+Ability: Sturdy  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Stone Edge  
+- Counter  
+- Sucker Punch  
+
+
+=== [gen71v1] revamp of old ass squad ===
+
+KEITH APE (Heracross-Mega) @ Heracronite  
+Ability: Guts  
+EVs: 252 HP / 144 Atk / 52 SpD / 60 Spe  
+Adamant Nature  
+- Close Combat  
+- Pin Missile  
+- Rock Blast  
+- Counter  
+
+X (Gyarados-Mega) @ Gyaradosite  
+Ability: Mold Breaker  
+Shiny: Yes  
+EVs: 104 HP / 180 Atk / 224 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Stone Edge  
+- Crunch  
+- Outrage  
+
+RICH CHIGGA (Victini) @ Choice Band  
+Ability: Victory Star  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- V-create  
+- Zen Headbutt  
+- Bolt Strike  
+- Trick  
+
+
+=== [gen71v1] bandit offense ===
+
+Victini @ Choice Band  
+Ability: Victory Star  
+EVs: 248 HP / 104 Atk / 44 Def / 112 Spe  
+Adamant Nature  
+- V-create  
+- Bolt Strike  
+- Zen Headbutt  
+- Brick Break  
+
+Lopunny-Mega @ Lopunnite  
+Ability: Limber  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- Giga Impact  
+- High Jump Kick  
+- Ice Punch  
+
+Greninja @ Choice Specs  
+Ability: Protean  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Cannon  
+- Ice Beam  
+- Grass Knot  
+- Extrasensory  
+
+
+=== [gen71v1] Untitled 345 ===
+
+Geodude @ Groundium Z  
+Ability: Rock Head  
+EVs: 252 Atk / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Rock Tomb  
+- Counter  
+- Sucker Punch  
+
+Graveler @ Rockium Z  
+Ability: Rock Head  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Earthquake  
+- Stone Edge  
+- Rock Blast  
+- Sucker Punch  
+
+Golem @ Passho Berry  
+Ability: Sturdy  
+EVs: 252 HP / 252 Def / 4 SpD  
+Impish Nature  
+- Iron Defense  
+- Counter  
+- Earthquake  
+- Stone Edge  
+
+
+=== [gen71v1] Untitled 320 ===
+
+Keldeo @ Choice Scarf  
+Ability: Justified  
+
+
+=== [gen71v1] curseeq lax ===
+
+Tubs (Snorlax) @ Aguav Berry  
+Ability: Gluttony  
+EVs: 192 HP / 252 Def / 64 SpD  
+Impish Nature  
+- Earthquake  
+- Curse  
+- Chip Away  
+- Recycle  
+
+
+=== [gen71v1] double normal ===
+
+Ursaring @ Normalium Z  
+Ability: Guts  
+EVs: 252 HP / 124 Atk / 132 Def  
+Adamant Nature  
+- Yawn  
+- Protect  
+- Belly Drum  
+- Double-Edge  
+
+Metagross-Mega @ Metagrossite  
+Ability: Clear Body  
+EVs: 80 HP / 252 Atk / 176 Spe  
+Jolly Nature  
+- Protect  
+- Bullet Punch  
+- Earthquake  
+- Ice Punch  
+
+Snorlax @ Iapapa Berry  
+Ability: Gluttony  
+EVs: 192 HP / 252 Def / 64 SpD  
+Impish Nature  
+- Amnesia  
+- Curse  
+- Chip Away  
+- Recycle  
+
+
+=== [gen71v1] someones standard shit ===
+
+Trashcan Dream (Metagross-Mega) @ Metagrossite  
+Ability: Tough Claws  
+EVs: 252 HP / 128 Atk / 60 Def / 68 Spe  
+Impish Nature  
+- Meteor Mash  
+- Bullet Punch  
+- Earthquake  
+- Thunder Punch  
+
+Lost In Dreams (Zygarde) @ Groundium Z  
+Ability: Power Construct  
+EVs: 240 HP / 56 Atk / 128 Def / 84 SpD  
+Impish Nature  
+- Coil  
+- Extreme Speed  
+- Thousand Arrows  
+- Rest  
+
+Two Dreamers (Greninja) @ Choice Specs  
+Ability: Protean  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Cannon  
+- Ice Beam  
+- Grass Knot  
+- Extrasensory  
+
+
+=== [gen71v1] lol ===
+
+Ursaring @ Normalium Z  
+Ability: Guts  
+EVs: 252 HP / 124 Atk / 132 Def  
+Adamant Nature  
+- Yawn  
+- Protect  
+- Belly Drum  
+- Double-Edge  
+
+Heatran @ Air Balloon  
+Ability: Flash Fire  
+EVs: 148 HP / 228 SpA / 132 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Overheat  
+- Ancient Power  
+- Hidden Power [Ice]  
+- Taunt  
+
+Jynx @ Fightinium Z  
+Ability: Dry Skin  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Lovely Kiss  
+- Substitute  
+- Ice Beam  
+- Focus Blast  
+
+
+=== [gen71v1] low ladder poopy ===
+
+Reuniclus @ Iapapa Berry  
+Ability: Magic Guard  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Iron Defense  
+- Calm Mind  
+- Recover  
+- Psychic  
+
+Zygarde @ Haban Berry  
+Ability: Power Construct  
+EVs: 140 HP / 252 Atk / 116 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Thousand Arrows  
+- Outrage  
+- Coil  
+
+Metagross-Mega @ Metagrossite  
+Ability: Tough Claws  
+EVs: 252 HP / 80 Atk / 28 Def / 20 SpD / 128 Spe  
+Impish Nature  
+- Meteor Mash  
+- Bullet Punch  
+- Thunder Punch  
+- Ice Punch  
+
+
+=== [gen71v1] jira venu ===
+
+UPTOWN (Venusaur-Mega) @ Venusaurite  
+Ability: Thick Fat  
+EVs: 248 HP / 244 Def / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Leech Seed  
+- Sleep Powder  
+- Sludge Bomb  
+- Giga Drain  
+
+RAH RAH (Jirachi) @ Choice Scarf  
+Ability: Serene Grace  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Iron Head  
+- Ice Punch  
+- Heart Stamp  
+- Fire Punch  
+
+NEW ERA (Garchomp) @ Choice Band  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Outrage  
+- Earthquake  
+- Brick Break  
+- Fire Fang  
+
+
+=== [gen71v1] victini fwg ===
+
+Victini @ Choice Band  
+Ability: Victory Star  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- V-create  
+- Bolt Strike  
+- Zen Headbutt  
+- Trick  
+
+Tapu Fini @ Choice Specs  
+Ability: Misty Surge  
+EVs: 248 HP / 252 SpA / 8 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Surf  
+- Moonblast  
+- Hidden Power [Rock]  
+
+Ferrothorn @ Steelium Z  
+Ability: Iron Barbs  
+EVs: 252 HP / 180 Atk / 76 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Gyro Ball  
+- Power Whip  
+- Protect  
+- Leech Seed  
+
+
+=== [gen71v1] camel fwg ===
+
+JUDGE ME (Camerupt-Mega) @ Cameruptite  
+Ability: Solid Rock  
+EVs: 248 HP / 156 Def / 96 SpA / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Earth Power  
+- Ancient Power  
+- Substitute  
+
+THIS IS OVER (Ferrothorn) @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 180 Atk / 76 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Gyro Ball  
+- Power Whip  
+- Protect  
+- Leech Seed  
+
+NIGHT FALL (Greninja) @ Choice Specs  
+Ability: Protean  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Cannon  
+- Ice Beam  
+- Extrasensory  
+- Grass Knot  
+
+
+=== [gen71v1] mlati ===
+
+Latias-Mega @ Latiasite  
+Ability: Levitate  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Recover  
+- Charm  
+- Stored Power  
+
+Magearna @ Shuca Berry  
+Ability: Soul-Heart  
+EVs: 252 HP / 192 SpA / 60 SpD / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Fleur Cannon  
+- Flash Cannon  
+- Thunderbolt  
+- Calm Mind  
+
+Entei @ Rockium Z  
+Ability: Pressure  
+Shiny: Yes  
+EVs: 252 HP / 208 Atk / 40 Def / 8 Spe  
+Adamant Nature  
+- Substitute  
+- Stone Edge  
+- Sacred Fire  
+- Extreme Speed  
+
+
+=== [gen71v1] archeops in 2017 ===
+
+Archeops @ Choice Band  
+Ability: Defeatist  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Head Smash  
+- Fly  
+- Earthquake  
+- Rock Slide  
+
+Ferrothorn @ Steelium Z  
+Ability: Iron Barbs  
+EVs: 252 HP / 76 Def / 180 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Gyro Ball  
+- Power Whip  
+- Protect  
+- Leech Seed  
+
+Zapdos @ Electrium Z  
+Ability: Static  
+EVs: 252 HP / 156 Def / 100 SpA  
+Modest Nature  
+IVs: 0 Atk  
+- Reflect  
+- Roost  
+- Thunder  
+- Hidden Power [Ice]  
+
+
+=== [gen71v1] this guy thinks hes heat ===
+
+sleep (Togekiss) @ Normalium Z  
+Ability: Serene Grace  
+EVs: 140 HP / 144 SpA / 224 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Yawn  
+- Endure  
+- Air Slash  
+- Nasty Plot  
+
+crash (Marowak-Alola) @ Thick Club  
+Ability: Lightning Rod  
+EVs: 248 HP / 224 Atk / 28 Def / 8 Spe  
+Impish Nature  
+- Flare Blitz  
+- Shadow Bone  
+- Stone Edge  
+- Counter  
+
+green hills (Jumpluff) @ Wide Lens  
+Ability: Infiltrator  
+Shiny: Yes  
+EVs: 52 HP / 204 Def / 252 Spe  
+Jolly Nature  
+- Leech Seed  
+- Protect  
+- Sleep Powder  
+- Substitute  
+
+
+=== [gen71v1] dongphan ===
+
+jupiter jazz (Donphan) @ Groundium Z  
+Ability: Sturdy  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Ice Shard  
+- Rock Tomb  
+- Bulldoze  
+
+reflection (Mew) @ Kee Berry  
+Ability: Synchronize  
+EVs: 252 HP / 4 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Will-O-Wisp  
+- Soft-Boiled  
+- Taunt  
+- Psychic  
+
+flight to france (Gyarados-Mega) @ Gyaradosite  
+Ability: Intimidate  
+EVs: 192 HP / 92 Atk / 224 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Waterfall  
+- Stone Edge  
+
+
+=== [gen71v1] 100 emoji ===
+
+shdw (Scizor-Mega) @ Scizorite  
+Ability: Light Metal  
+EVs: 248 HP / 192 Atk / 68 SpD  
+Brave Nature  
+- Curse  
+- Bullet Punch  
+- Laser Focus  
+- Roost  
+
+droptopcoupe (Garchomp) @ Choice Band  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Outrage  
+- Fire Fang  
+- Poison Jab  
+
+speed boat (Rotom-Wash) @ Electrium Z  
+Ability: Levitate  
+EVs: 252 HP / 44 Def / 212 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Will-O-Wisp  
+- Electroweb  
+- Thunder  
+- Hydro Pump  
+
+
+=== [gen71v1] genesect ===
+
+vhs dreams (Genesect) @ Choice Specs  
+Ability: Download  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Bug Buzz  
+- Flash Cannon  
+- Thunderbolt  
+- Flamethrower  
+
+faded faded faded (Krookodile) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Crunch  
+- Rock Slide  
+- Superpower  
+
+dance with me (Jumpluff) @ Wide Lens  
+Ability: Infiltrator  
+EVs: 20 HP / 236 Def / 252 Spe  
+Jolly Nature  
+IVs: 0 Atk  
+- Sleep Powder  
+- Leech Seed  
+- Substitute  
+- Protect  
+
+
+=== [gen71v1] primameta ===
+
+Metagross-Mega @ Metagrossite  
+Ability: Tough Claws  
+EVs: 252 HP / 28 Def / 204 SpD / 24 Spe  
+Impish Nature  
+- Meteor Mash  
+- Bullet Punch  
+- Earthquake  
+- Zen Headbutt  
+
+Jumpluff @ Wide Lens  
+Ability: Chlorophyll  
+EVs: 52 HP / 204 Def / 252 Spe  
+Jolly Nature  
+IVs: 0 Atk  
+- Sleep Powder  
+- Leech Seed  
+- Substitute  
+- Protect  
+
+Primarina @ Fairium Z  
+Ability: Torrent  
+EVs: 252 HP / 52 Def / 192 SpA / 12 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Encore  
+- Sparkling Aria  
+- Moonblast  
+- Baby-Doll Eyes  
+
+
+=== [gen71v1] yesterday's kisses are still on my lips ===
+
+effects (Blissey) @ Fairium Z  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 248 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Charm  
+- Counter  
+- Soft-Boiled  
+
+it's a burden (Latios) @ Psychium Z  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Heal Block  
+- Psyshock  
+- Draco Meteor  
+- Hidden Power [Fire]  
+
+imperfect (Stunfisk) @ Petaya Berry  
+Ability: Sand Veil  
+EVs: 252 HP / 4 Def / 244 SpA / 8 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Endure  
+- Yawn  
+- Thunder  
+- Earth Power  
+
+
+=== [gen71v1] pheromosa ===
+
+fantasy and you (Pheromosa) @ Choice Specs  
+Ability: Beast Boost  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 1 Atk  
+- Bug Buzz  
+- Hidden Power [Electric]  
+- Focus Blast  
+- Ice Beam  
+
+sur la plage (Gyarados-Mega) @ Gyaradosite  
+Ability: Intimidate  
+EVs: 248 HP / 4 Atk / 96 Def / 160 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Earthquake  
+- Outrage  
+
+rising sun (Magnezone) @ Electrium Z  
+Ability: Sturdy  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunder  
+- Mirror Coat  
+- Electroweb  
+- Metal Sound  
+
+
+=== [gen71v1] mimi ;w; ===
+
+im a savage (Ferrothorn) @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 40 Atk / 216 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Leech Seed  
+- Gyro Ball  
+- Protect  
+- Power Whip  
+
+in my eyes (Mimikyu) @ Mimikium Z  
+Ability: Disguise  
+Shiny: Yes  
+EVs: 88 HP / 164 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Substitute  
+- Curse  
+- Protect  
+- Play Rough  
+
+how to vacation (Gyarados) @ Gyaradosite  
+Ability: Intimidate  
+EVs: 252 HP / 68 Atk / 88 Def / 100 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Waterfall  
+- Taunt  
+
+
+=== [gen71v1] deadass ===
+
+yen (Diancie-Mega) @ Diancite  
+Ability: Clear Body  
+EVs: 8 Atk / 248 SpA / 252 Spe  
+Naive Nature  
+- Moonblast  
+- Diamond Storm  
+- Substitute  
+- Magnet Rise  
+
+possesions (Charizard-Mega-X) @ Charizardite X  
+Ability: Tough Claws  
+EVs: 24 HP / 232 Def / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Outrage  
+- Flare Blitz  
+- Will-O-Wisp  
+
+flawless (Tapu Koko) @ Electrium Z  
+Ability: Electric Surge  
+Shiny: Yes  
+EVs: 92 HP / 164 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Substitute  
+- Charge  
+- Thunder  
+- Reflect  
+
+
+=== [gen71v1] bliss bro ===
+
+always on my mind (Blissey) @ Normalium Z  
+Ability: Serene Grace  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Growl  
+- Soft-Boiled  
+- Seismic Toss  
+- Ice Punch  
+
+in the void (Slowbro) @ Slowbronite  
+Ability: Oblivious  
+EVs: 248 HP / 248 SpD / 12 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Rest  
+- Iron Defense  
+- Amnesia  
+- Scald  
+
+lets get away (Thundurus-Therian) @ Choice Specs  
+Ability: Volt Absorb  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Sludge Wave  
+- Psychic  
+- Hyper Beam  
+
+
+=== [gen71v1] naga now ===
+
+deja vu (Naganadel) @ Choice Specs  
+Ability: Beast Boost  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Sludge Wave  
+- Air Slash  
+- Fire Blast  
+
+hell (Ferrothorn) @ Steelium Z  
+Ability: Iron Barbs  
+Shiny: Yes  
+EVs: 252 HP / 180 Atk / 76 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Gyro Ball  
+- Power Whip  
+- Protect  
+- Leech Seed  
+
+dangerous (Golem) @ Groundium Z  
+Ability: Sturdy  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Stone Edge  
+- Rock Blast  
+- Sucker Punch  
+
+
+=== [gen71v1] altaria bliss EARTHQUAKE HIT EM BELOW ===
+
+brasil (Altaria-Mega) @ Altarianite  
+Ability: Pixilate  
+EVs: 252 HP / 36 Def / 28 SpA / 184 SpD / 8 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Cotton Guard  
+- Roost  
+- Hyper Voice  
+- Dragon Breath  
+
+cherries (Blissey) @ Fairium Z  
+Ability: Serene Grace  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Charm  
+- Soft-Boiled  
+- Seismic Toss  
+- Rest  
+
+eat half (Diggersby) @ Choice Scarf  
+Ability: Huge Power  
+EVs: 252 Atk / 40 Def / 216 Spe  
+Adamant Nature  
+- Earthquake  
+- Giga Impact  
+- Thunder Punch  
+- Fire Punch  
+
+
+=== [gen71v1] uu dual specs ===
+
+Sylveon @ Choice Specs  
+Ability: Pixilate  
+EVs: 252 HP / 168 Def / 88 SpA  
+Modest Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Hyper Beam  
+- Shadow Ball  
+- Echoed Voice  
+
+Golem @ Groundium Z  
+Ability: Sturdy  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Stone Edge  
+- Sucker Punch  
+- Counter  
+
+Raikou @ Choice Specs  
+Ability: Pressure  
+Shiny: Yes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Aura Sphere  
+- Hidden Power [Ice]  
+- Extrasensory  
+
+
+=== [gen71v1] mono sinnoh ===
+
+Heatran @ Firium Z  
+Ability: Flash Fire  
+EVs: 124 HP / 252 SpA / 132 Spe  
+Modest Nature  
+- Overheat  
+- Flash Cannon  
+- Rock Tomb  
+- Earth Power  
+
+Roserade @ Grassium Z  
+Ability: Technician  
+EVs: 180 Def / 152 SpA / 176 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Sleep Powder  
+- Substitute  
+- Leaf Storm  
+- Hidden Power [Poison]  
+
+Bronzong @ Sitrus Berry  
+Ability: Levitate  
+EVs: 252 HP / 100 Def / 156 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Iron Defense  
+- Calm Mind  
+- Rest  
+- Flash Cannon  
+
+
+=== [gen71v1] ferrokrook again ===
+
+shots in the lie (Ferrothorn) @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 180 Atk / 76 Def  
+Impish Nature  
+IVs: 0 Spe  
+- Leech Seed  
+- Protect  
+- Gyro Ball  
+- Power Whip  
+
+took your soul (Krookodile) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 244 Atk / 24 SpD / 240 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Superpower  
+- Hidden Power [Ice]  
+
+changing the city (Victini) @ Psychium Z  
+Ability: Victory Star  
+EVs: 160 HP / 252 SpA / 96 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Will-O-Wisp  
+- Glaciate  
+- Blue Flare  
+- Psychic  
+
+
+=== [gen71v1] relicanth fwg ===
+
+judge me (Marowak-Alola) @ Thick Club  
+Ability: Rock Head  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Shadow Bone  
+- Flare Blitz  
+- Swords Dance  
+- Stone Edge  
+
+let that boy play (Venusaur-Mega) @ Venusaurite  
+Ability: Thick Fat  
+EVs: 252 HP / 248 Def / 4 SpA / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Sleep Powder  
+- Sludge Bomb  
+- Giga Drain  
+- Synthesis  
+
+this is over (Relicanth) @ Rockium Z  
+Ability: Sturdy  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Yawn  
+- Protect  
+- Stone Edge  
+- Waterfall  
+
+
+=== [gen71v1] the team madez ===
+
+Medicham-Mega @ Medichamite  
+Ability: Pure Power  
+EVs: 252 Atk / 108 Def / 148 Spe  
+Jolly Nature  
+- Fake Out  
+- Bulk Up  
+- Ice Punch  
+- High Jump Kick  
+
+Heatran @ Air Balloon  
+Ability: Flash Fire  
+EVs: 80 HP / 108 Def / 196 SpA / 124 Spe  
+Modest Nature  
+- Rock Tomb  
+- Earth Power  
+- Overheat  
+- Flash Cannon  
+
+Porygon-Z @ Choice Scarf  
+Ability: Download  
+EVs: 70 Def / 252 SpA / 186 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hyper Beam  
+- Dark Pulse  
+- Thunderbolt  
+- Psychic  
+
+
+=== [gen71v1] venutran fwg ===
+
+Venusaur-Mega @ Venusaurite  
+Ability: Thick Fat  
+EVs: 252 HP / 248 Def / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Sleep Powder  
+- Synthesis  
+- Giga Drain  
+- Sludge Bomb  
+
+Heatran @ Air Balloon  
+Ability: Flash Fire  
+EVs: 136 HP / 252 SpA / 120 Spe  
+Modest Nature  
+- Rock Tomb  
+- Fire Blast  
+- Earth Power  
+- Hidden Power [Ice]  
+
+Greninja @ Choice Band  
+Ability: Protean  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Low Kick  
+- Giga Impact  
+- Aerial Ace  
+- Waterfall  
+
+
+=== [gen71v1] fc normal but with my amazing changes ===
+
+Snorlax (M) @ Normalium Z  
+Ability: Immunity  
+EVs: 8 HP / 236 Atk / 252 Def / 12 Spe  
+Adamant Nature  
+IVs: 30 Spe  
+- Yawn  
+- Protect  
+- Belly Drum  
+- Double-Edge  
+
+Pidgeot-Mega @ Pidgeotite  
+Ability: Tangled Feet  
+EVs: 88 HP / 252 Def / 168 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Heat Wave  
+- Hurricane  
+- Feather Dance  
+- Roost  
+
+Blissey @ Fairium Z  
+Ability: Serene Grace  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+- Charm  
+- Soft-Boiled  
+- Seismic Toss  
+- Counter  
+
+
+=== [gen71v1] Untitled 2644 ===
+
+Charizard-Mega-Y @ Charizardite Y  
+Ability: Drought  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+- Will-O-Wisp  
+- Flame Charge  
+- Hidden Power [Ice]  
+- Blast Burn  
+
+Blissey @ Fairium Z  
+Ability: Natural Cure  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Soft-Boiled  
+- Rest  
+- Seismic Toss  
+- Charm  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 48 Atk / 76 Def / 132 SpD  
+Impish Nature  
+IVs: 0 Spe  
+- Leech Seed  
+- Gyro Ball  
+- Power Whip  
+- Protect  
+
+
+=== [gen71v1] Untitled 2675 ===
+
+Whimsicott @ Occa Berry  
+Ability: Prankster  
+EVs: 248 HP / 100 Def / 160 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Leech Seed  
+- Substitute  
+- Protect  
+
+Garchomp @ Choice Band  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Outrage  
+- Aqua Tail  
+- Rock Slide  
+
+Lopunny-Mega @ Lopunnite  
+Ability: Scrappy  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- Giga Impact  
+- High Jump Kick  
+- Substitute  
+
+
+=== [gen71v1] fini ===
+
+sur la plage (Tapu Fini) @ Choice Specs  
+Ability: Misty Surge  
+EVs: 252 HP / 252 SpA / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Hydro Pump  
+- Surf  
+- Hidden Power [Rock]  
+
+baby girl (Mew) @ Kee Berry  
+Ability: Synchronize  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Jolly Nature  
+IVs: 0 Atk  
+- Will-O-Wisp  
+- Soft-Boiled  
+- Taunt  
+- Seismic Toss  
+
+fantasy and you (Thundurus-Therian) @ Choice Specs  
+Ability: Volt Absorb  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Psychic  
+- Sludge Wave  
+- Thunder  
+
+
+=== [gen71v1] aegis fini ===
+
+Aegislash-Blade @ Ghostium Z  
+Ability: Stance Change  
+EVs: 248 HP / 248 SpA / 4 SpD / 8 Spe  
+Quiet Nature  
+- King's Shield  
+- Shadow Ball  
+- Shadow Sneak  
+- Magnet Rise  
+
+Tapu Fini @ Choice Specs  
+Ability: Misty Surge  
+EVs: 244 HP / 252 SpA / 12 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Surf  
+- Moonblast  
+- Hydro Pump  
+- Hidden Power [Rock]  
+
+Emolga @ Fairium Z  
+Ability: Motor Drive  
+EVs: 252 HP / 4 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Roost  
+- Charm  
+- Air Slash  
+- Encore  
+
+
+=== [gen71v1] cp2 fwg ===
+
+Empoleon @ Choice Specs  
+Ability: Torrent  
+EVs: 252 HP / 184 SpA / 72 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Surf  
+- Hydro Cannon  
+- Flash Cannon  
+- Icy Wind  
+
+Tapu Bulu @ Choice Scarf  
+Ability: Grassy Surge  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Wood Hammer  
+- Horn Leech  
+- Stone Edge  
+- Giga Drain  
+
+Camerupt-Mega @ Cameruptite  
+Ability: Magma Armor  
+EVs: 248 HP / 168 Def / 92 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Substitute  
+- Ancient Power  
+- Earth Power  
+- Fire Blast  
+
+
+=== [gen71v1] uc mimikoko ===
+
+Mimikyu @ Mimikium Z  
+Ability: Disguise  
+Shiny: Yes  
+EVs: 252 HP / 168 Atk / 88 Def  
+Adamant Nature  
+- Will-O-Wisp  
+- Shadow Claw  
+- Play Rough  
+- Swords Dance  
+
+Metagross @ Metagrossite  
+Ability: Clear Body  
+Shiny: Yes  
+EVs: 80 HP / 252 Atk / 176 Spe  
+Jolly Nature  
+- Substitute  
+- Meteor Mash  
+- Zen Headbutt  
+- Earthquake  
+
+Tapu Koko @ Electrium Z  
+Ability: Electric Surge  
+EVs: 128 Atk / 188 Def / 192 Spe  
+Jolly Nature  
+- Wild Charge  
+- Charge  
+- Taunt  
+- Substitute  
+
+
+=== [gen71v1] uc groundium kyub ===
+
+Kyurem-Black @ Groundium Z  
+Ability: Teravolt  
+EVs: 16 HP / 236 Def / 252 SpA / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Earth Power  
+- Draco Meteor  
+- Ice Beam  
+- Substitute  
+
+Keldeo @ Fightinium Z  
+Ability: Justified  
+EVs: 252 HP / 80 Def / 116 SpA / 20 SpD / 40 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Focus Blast  
+- Hidden Power [Rock]  
+- Icy Wind  
+
+Metagross @ Metagrossite  
+Ability: Clear Body  
+Shiny: Yes  
+EVs: 248 HP / 48 Atk / 184 Def / 28 Spe  
+Impish Nature  
+- Bullet Punch  
+- Meteor Mash  
+- Thunder Punch  
+- Earthquake  
+
+
+=== [gen71v1] eat the ladder's ass ===
+
+Tapu Koko @ Electrium Z  
+Ability: Electric Surge  
+EVs: 120 HP / 252 SpA / 136 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Substitute  
+- Charge  
+- Thunder  
+- Dazzling Gleam  
+
+Gyarados @ Gyaradosite  
+Ability: Intimidate  
+EVs: 88 HP / 232 Atk / 88 Def / 100 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Waterfall  
+- Stone Edge  
+
+Charizard @ Charizardite X  
+Ability: Blaze  
+EVs: 116 HP / 140 Atk / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Flare Blitz  
+- Outrage  
+- Will-O-Wisp  
+
+
+=== [gen71v1] hydreigon but 2.5 fighting weaks ===
+
+Hydreigon @ Choice Specs  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Dark Pulse  
+- Flamethrower  
+- Earth Power  
+
+Ferrothorn @ Chople Berry  
+Ability: Iron Barbs  
+EVs: 252 HP / 180 Atk / 76 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Gyro Ball  
+- Power Whip  
+- Protect  
+- Leech Seed  
+
+Heatran @ Air Balloon  
+Ability: Flash Fire  
+EVs: 136 HP / 252 SpA / 120 Spe  
+Modest Nature  
+- Rock Tomb  
+- Fire Blast  
+- Earth Power  
+- Hidden Power [Ice]  
+
+
+=== [gen71v1] a poor man's g0dsquad ===
+
+Sylveon @ Sitrus Berry  
+Ability: Pixilate  
+EVs: 252 HP / 32 Def / 220 SpA / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Protect  
+- Hyper Beam  
+- Hyper Voice  
+- Calm Mind  
+
+Rotom-Heat @ Firium Z  
+Ability: Levitate  
+EVs: 252 HP / 44 Def / 212 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Will-O-Wisp  
+- Electroweb  
+- Thunderbolt  
+- Overheat  
+
+Carracosta @ Rockium Z  
+Ability: Sturdy  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Shell Smash  
+- Waterfall  
+- Aqua Jet  
+- Stone Edge  
+
+
+=== [gen71v1] cradily fwg ===
+
+Cradily @ Rockium Z  
+Ability: Storm Drain  
+EVs: 252 HP / 56 Atk / 200 Def  
+Impish Nature  
+- Curse  
+- Stone Edge  
+- Seed Bomb  
+- Recover  
+
+Tapu Fini @ Choice Specs  
+Ability: Misty Surge  
+EVs: 252 HP / 244 SpA / 12 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Surf  
+- Moonblast  
+- Hydro Pump  
+- Hidden Power [Rock]  
+
+Talonflame @ Flyinium Z  
+Ability: Gale Wings  
+EVs: 16 HP / 252 Atk / 68 Def / 172 Spe  
+Adamant Nature  
+- Will-O-Wisp  
+- Bulk Up  
+- Brave Bird  
+- Roost  
+
+
+=== [gen71v1] bentacruel ===
+
+Tentacruel @ Poisonium Z  
+Ability: Liquid Ooze  
+EVs: 252 Def / 244 SpA / 12 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Acid Spray  
+- Sludge Bomb  
+- Scald  
+- Mirror Coat  
+
+Ferrothorn @ Steelium Z  
+Ability: Iron Barbs  
+EVs: 252 HP / 180 Atk / 76 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Gyro Ball  
+- Power Whip  
+- Protect  
+- Leech Seed  
+
+Entei @ Rockium Z  
+Ability: Pressure  
+Shiny: Yes  
+EVs: 252 HP / 216 Atk / 40 Def  
+Adamant Nature  
+- Stone Edge  
+- Sacred Fire  
+- Extreme Speed  
+- Protect  
+
+
+=== [gen71v1] not so boolin ===
+
+jesus christ (Ferrothorn) @ Grassium Z  
+Ability: Iron Barbs  
+Shiny: Yes  
+EVs: 252 HP / 180 Atk / 76 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Gyro Ball  
+- Power Whip  
+- Protect  
+- Leech Seed  
+
+loses life tonight (Crustle) @ Rockium Z  
+Ability: Sturdy  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Shell Smash  
+- Rock Wrecker  
+- Earthquake  
+- Rock Blast  
+
+oh lord (Charizard-Mega-Y) @ Charizardite Y  
+Ability: Drought  
+EVs: 232 Def / 60 SpA / 216 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hidden Power [Electric]  
+- Solar Beam  
+- Blast Burn  
+- Air Slash  
+
+
+=== [gen71v1] monomag ===
+
+Magnemite @ Berry Juice  
+Ability: Sturdy  
+Level: 1  
+EVs: 116 Def / 236 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Toxic  
+- Protect  
+- Recycle  
+- Flash Cannon  
+
+Magneton @ Air Balloon  
+Ability: Sturdy  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Magnet Rise  
+- Flash Cannon  
+- Thunderbolt  
+- Electroweb  
+
+Magnezone @ Normalium Z  
+Ability: Sturdy  
+EVs: 252 HP / 120 SpA / 136 SpD  
+Mild Nature  
+IVs: 0 Atk  
+- Hyper Beam  
+- Thunder  
+- Flash Cannon  
+- Electroweb  
+
+
+=== [gen71v1] torn with landon ===
+
+Tornadus @ Flyinium Z  
+Ability: Prankster  
+EVs: 216 Def / 72 SpA / 220 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hurricane  
+- Rain Dance  
+- Taunt  
+- Grass Knot  
+
+Aggron @ Rockium Z  
+Ability: Sturdy  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Rock Tomb  
+- Head Smash  
+- Heavy Slam  
+- Screech  
+
+Arcanine @ White Herb  
+Ability: Intimidate  
+EVs: 252 HP / 144 Def / 100 SpD / 12 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Will-O-Wisp  
+- Morning Sun  
+- Flamethrower  
+- Hidden Power [Ice]  
+
+
+=== [gen71v1] gyara bliss ===
+
+Gyarados-Mega @ Gyaradosite  
+Ability: Mold Breaker  
+EVs: 184 HP / 136 Atk / 88 Def / 100 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Outrage  
+- Stone Edge  
+
+Blissey @ Fairium Z  
+Ability: Serene Grace  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Charm  
+- Soft-Boiled  
+- Seismic Toss  
+- Flamethrower  
+
+Pheromosa @ Choice Band  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Lunge  
+- Double Kick  
+- Poison Jab  
+- Bounce  
+
+
+=== [gen71v1] goat ===
+
+Purugly @ Normal Gem  
+Ability: Defiant  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- Substitute  
+- Flail  
+- Return  
+
+Charizard-Mega-X @ Charizardite X  
+Ability: Tough Claws  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Will-O-Wisp  
+- Blast Burn  
+- Dragon Pulse  
+- Focus Blast  
+
+Ferrothorn @ Steelium Z  
+Ability: Iron Barbs  
+EVs: 252 HP / 180 Atk / 76 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Gyro Ball  
+- Power Whip  
+- Protect  
+- Leech Seed  
+
+
+=== [gen71v1] emolga stall ===
+
+Blissey @ Psychium Z  
+Ability: Healer  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+- Reflect  
+- Soft-Boiled  
+- Ice Beam  
+- Seismic Toss  
+
+Emolga @ Fairium Z  
+Ability: Motor Drive  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Charm  
+- Roost  
+- Encore  
+- Air Slash  
+
+Jirachi @ Choice Scarf  
+Ability: Serene Grace  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Iron Head  
+- Heart Stamp  
+- Trick  
+- Rest  
+
+
+=== [gen71v1] cobalion with no zmoves ===
+
+Cobalion @ Choice Band  
+Ability: Justified  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Iron Head  
+- Stone Edge  
+- Zen Headbutt  
+
+Gyarados-Mega @ Gyaradosite  
+Ability: Moxie  
+EVs: 252 HP / 252 Def / 4 SpD  
+Impish Nature  
+- Bide  
+- Dragon Dance  
+- Stone Edge  
+- Waterfall  
+
+Shaymin @ Choice Specs  
+Ability: Natural Cure  
+EVs: 252 HP / 236 SpA / 20 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Seed Flare  
+- Earth Power  
+- Psychic  
+- Air Slash  
+
+
+=== [gen71v1] def toge team ===
+
+Togekiss @ Yache Berry  
+Ability: Serene Grace  
+EVs: 252 HP / 224 Def / 32 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Thunder Wave  
+- Charm  
+- Roost  
+- Air Slash  
+
+Blissey  
+Ability: Natural Cure  
+IVs: 0 Atk  
+
+
+=== [gen71v1] not guilty fwg ===
+
+here with me (Emboar) @ Fightinium Z  
+Ability: Blaze  
+EVs: 232 HP / 16 Def / 252 SpD / 8 Spe  
+Impish Nature  
+- Yawn  
+- Protect  
+- Focus Punch  
+- Flame Charge  
+
+appreciate that (Ferrothorn) @ Steelium Z  
+Ability: Iron Barbs  
+EVs: 252 HP / 180 Atk / 76 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Gyro Ball  
+- Power Whip  
+- Protect  
+- Leech Seed  
+
+anywhere (Rotom-Wash) @ Electrium Z  
+Ability: Levitate  
+EVs: 252 HP / 212 Def / 44 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Electroweb  
+- Thunder  
+- Will-O-Wisp  
+- Hydro Pump  
+
+
+=== [gen71v1] shay prim kyub ===
+
+Shaymin @ Choice Specs  
+Ability: Natural Cure  
+EVs: 252 HP / 112 SpA / 136 SpD / 8 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Seed Flare  
+- Earth Power  
+- Psychic  
+- Hidden Power [Fire]  
+
+Primarina @ Waterium Z  
+Ability: Torrent  
+EVs: 192 HP / 152 Def / 164 SpA  
+Quiet Nature  
+- Hydro Cannon  
+- Aqua Jet  
+- Moonblast  
+- Toxic  
+
+Kyurem-Black @ Icium Z  
+Ability: Teravolt  
+EVs: 52 HP / 240 Atk / 216 Spe  
+Jolly Nature  
+- Freeze Shock  
+- Outrage  
+- Substitute  
+- Fusion Bolt  
+
+
+=== [gen71v1] torkoal koko mlop ===
+
+Torkoal @ Firium Z  
+Ability: Drought  
+EVs: 252 HP / 252 SpA / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Overheat  
+- Yawn  
+- Hidden Power [Rock]  
+- Protect  
+
+Tapu Koko @ Air Balloon  
+Ability: Electric Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Grass Knot  
+- Charge  
+- Thunderbolt  
+- Taunt  
+
+Lopunny-Mega @ Lopunnite  
+Ability: Limber  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- Substitute  
+- Flail  
+- High Jump Kick  
+
+
+=== [gen71v1] buzz mimik gren ===
+
+Buzzwole @ Fightinium Z  
+Ability: Beast Boost  
+EVs: 248 HP / 152 Atk / 108 Def  
+Adamant Nature  
+- Superpower  
+- Roost  
+- Bulk Up  
+- Rock Tomb  
+
+Mimikyu @ Ghostium Z  
+Ability: Disguise  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Shadow Claw  
+- Shadow Sneak  
+- Play Rough  
+
+Greninja @ Choice Specs  
+Ability: Protean  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hidden Power [Ground]  
+- Ice Beam  
+- Extrasensory  
+- Hydro Cannon  
+
+
+=== [gen71v1] monogen unova ===
+
+ba$ic bitche$ (Thundurus-Therian) @ Choice Specs  
+Ability: Volt Absorb  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Hyper Beam  
+- Psychic  
+- Hidden Power [Ice]  
+
+gucci gucci (Landorus-Therian) @ Groundium Z  
+Ability: Intimidate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Bulk Up  
+- Substitute  
+- Earthquake  
+- Rock Tomb  
+
+addre$$ me (Ferrothorn) @ Grassium Z  
+Ability: Iron Barbs  
+EVs: 252 HP / 180 Atk / 76 Def  
+Impish Nature  
+IVs: 0 Spe  
+- Leech Seed  
+- Protect  
+- Gyro Ball  
+- Power Whip  
+
+
+=== [gen71v1] raimon broke ===
+
+Zygarde-Complete @ Weakness Policy  
+Ability: Power Construct  
+EVs: 252 HP / 104 Atk / 80 Def / 72 Spe  
+Impish Nature  
+- Thousand Arrows  
+- Coil  
+- Substitute  
+- Extreme Speed  
+
+Porygon-Z @ Normalium Z  
+Ability: Adaptability  
+EVs: 252 HP / 184 Def / 72 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Conversion  
+- Recover  
+- Hyper Beam  
+- Nasty Plot  
+
+Tapu Koko @ Electrium Z  
+Ability: Electric Surge  
+EVs: 244 HP / 152 Def / 112 Spe  
+Jolly Nature  
+- Nature's Madness  
+- Taunt  
+- Reflect  
+- Wild Charge  
+
+
+=== [gen71v1] just spent all my money on shit i didn't need. ===
+
+us east (Articuno) @ Flyinium Z  
+Ability: Pressure  
+EVs: 164 HP / 32 Def / 252 SpA / 60 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Freeze-Dry  
+- Hurricane  
+- Icy Wind  
+- Rest  
+
+tropical hysteria (Charizard) @ Charizardite X  
+Ability: Blaze  
+EVs: 20 Atk / 236 Def / 252 Spe  
+Jolly Nature  
+- Protect  
+- Flame Charge  
+- Flare Blitz  
+- Outrage  
+
+satisfy (Ferrothorn) @ Sitrus Berry  
+Ability: Iron Barbs  
+EVs: 252 HP / 52 Atk / 204 SpA  
+Quiet Nature  
+IVs: 30 Atk / 1 Spe  
+- Gyro Ball  
+- Giga Drain  
+- Hidden Power [Ice]  
+- Magnet Rise  
+
+
+=== [gen71v1] mnm smeargle ===
+
+Smeargle @ Banettite  
+Ability: Own Tempo  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Spore  
+- Imprison  
+- Transform  
+- Lovely Kiss  
+
+Clefable @ Sablenite  
+Ability: Magic Guard  
+EVs: 252 HP / 172 Def / 84 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Charm  
+- Amnesia  
+- Moonblast  
+- Soft-Boiled  
+
+Kyogre @ Blue Orb  
+Ability: Drizzle  
+EVs: 252 Def / 252 SpA / 4 Spe  
+Modest Nature  
+- Origin Pulse  
+- Rock Tomb  
+- Ice Beam  
+- Thunder  
+
+
+=== [gen71v1] p bad blaze team ===
+
+Blaziken @ Fightinium Z  
+Ability: Speed Boost  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Protect  
+- Blast Burn  
+- Focus Blast  
+- Hidden Power [Electric]  
+
+Landorus @ Yache Berry  
+Ability: Sheer Force  
+EVs: 24 HP / 232 SpA / 252 Spe  
+Hasty Nature  
+- Substitute  
+- Earth Power  
+- Rock Slide  
+- Focus Blast  
+
+Deoxys-Speed @ Choice Specs  
+Ability: Pressure  
+EVs: 44 Def / 252 SpA / 212 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Shadow Ball  
+- Thunderbolt  
+- Trick  
+
+
+=== [gen71v1] pretty bad mono psychic ===
+
+devil lives (Latios) @ Choice Specs  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Psyshock  
+- Trick  
+- Thunderbolt  
+
+made of abyss (Slowbro-Mega) @ Slowbronite  
+Ability: Shell Armor  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Iron Defense  
+- Amnesia  
+- Rest  
+- Scald  
+
+Celebi @ Grassium Z  
+Ability: Natural Cure  
+EVs: 184 HP / 72 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Hidden Power [Fire]  
+- Charge Beam  
+- Leaf Storm  
+
+
+=== [gen71v1] really shitty bh 1v1 ===
+
+Marshadow @ Safety Goggles  
+Ability: Pressure  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Cotton Guard  
+- Amnesia  
+- Recover  
+- Taunt  
+
+Deoxys-Attack @ Focus Sash  
+Ability: Turboblaze  
+EVs: 252 Atk / 252 SpA / 1 SpD / 252 Spe  
+Hasty Nature  
+IVs: 0 HP  
+- Lovely Kiss  
+- Endeavor  
+- Psycho Boost  
+- Extreme Speed  
+
+Shedinja @ Lum Berry  
+Ability: Sturdy  
+EVs: 1 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Endeavor  
+- Water Shuriken  
+- Protect  
+- Safeguard  
+
+
+=== [gen71v1] bh 1v1 someone made ===
+
+Groudon-Primal @ Choice Scarf  
+Ability: Desolate Land  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Adamant Nature  
+- V-create  
+- Ice Hammer  
+- Sunsteel Strike  
+- Bonemerang  
+
+Giratina @ Leftovers  
+Ability: Magic Bounce  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Imprison  
+- Spore  
+- Transform  
+- Core Enforcer  
+
+Gengar-Mega @ Spooky Plate  
+Ability: Normalize  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Spore  
+- Entrainment  
+- Substitute  
+
+
+=== [gen71v1] dusclops bh ===
+
+Dusclops @ Eviolite  
+Ability: Normalize  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD  
+Sassy Nature  
+IVs: 0 Atk / 0 Spe  
+- Core Enforcer  
+- Skill Swap  
+- Rest  
+- Perish Song  
+
+Regigigas @ Iron Ball  
+Ability: Prankster  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD  
+Relaxed Nature  
+IVs: 0 Atk  
+- Imprison  
+- Transform  
+- Core Enforcer  
+- Psychic Terrain  
+
+Mewtwo-Mega-Y @ Focus Sash  
+Ability: Psychic Surge  
+EVs: 252 HP / 252 Def / 252 SpA / 52 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psycho Boost  
+- Overheat  
+- Fleur Cannon  
+- Lovely Kiss  
+
+
+=== [gen71v1] aids mono alola ===
+
+Araquanid @ Waterium Z  
+Ability: Water Bubble  
+EVs: 252 HP / 252 Atk / 4 SpA  
+Brave Nature  
+- Liquidation  
+- Leech Life  
+- Mirror Coat  
+- Hidden Power [Electric]  
+
+Magearna @ Choice Specs  
+Ability: Soul-Heart  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Fleur Cannon  
+- Flash Cannon  
+- Thunderbolt  
+- Hidden Power [Fire]  
+
+Silvally @ Grass Memory  
+Ability: RKS System  
+EVs: 252 HP / 48 Def / 208 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Metal Sound  
+- Ice Beam  
+- Air Slash  
+- Flamethrower  
+
+
+=== [gen71v1] pluff thundt ===
+
+Jumpluff @ Wide Lens  
+Ability: Infiltrator  
+EVs: 52 HP / 204 Def / 252 Spe  
+Jolly Nature  
+IVs: 0 Atk  
+- Sleep Powder  
+- Leech Seed  
+- Substitute  
+- Protect  
+
+Thundurus-Therian @ Electrium Z  
+Ability: Volt Absorb  
+EVs: 240 HP / 16 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Taunt  
+- Thunder  
+- Psychic  
+
+Gyarados-Mega @ Gyaradosite  
+Ability: Intimidate  
+Shiny: Yes  
+EVs: 120 HP / 124 Atk / 80 Def / 80 SpD / 104 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Outrage  
+- Taunt  
+
+
+=== [gen71v1] mnm 1v1 oo ===
+
+Meloetta @ Pidgeotite  
+Ability: Serene Grace  
+EVs: 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Sing  
+- Substitute  
+- Hyper Voice  
+- Psyshock  
+
+Weavile @ Glalitite  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- Double-Edge  
+- Ice Shard  
+- Knock Off  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Swords Dance  
+- Rock Tomb  
+- Precipice Blades  
+- Fire Punch  
+
+
+=== [gen71v1] arceus ag ===
+
+broken (Arceus-Dragon) @ Draco Plate  
+Ability: Multitype  
+EVs: 252 HP / 128 Def / 128 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Perish Song  
+- Protect  
+- Trick Room  
+- Recover  
+
+broken (Arceus-Fairy) @ Pixie Plate  
+Ability: Multitype  
+EVs: 252 HP / 128 Def / 128 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Perish Song  
+- Protect  
+- Trick Room  
+- Recover  
+
+broken (Arceus-Steel) @ Iron Plate  
+Ability: Multitype  
+EVs: 252 HP / 128 Def / 128 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Perish Song  
+- Protect  
+- Trick Room  
+- Recover  
+
+
+=== [gen71v1] shiftry fwg ===
+
+NIGHT FALL (Shiftry) @ Grassium Z  
+Ability: Chlorophyll  
+EVs: 128 HP / 252 SpA / 4 SpD / 124 Spe  
+Modest Nature  
+- Fake Out  
+- Leaf Storm  
+- Dark Pulse  
+- Toxic  
+
+IN MY MIND (Marowak-Alola) @ Thick Club  
+Ability: Lightning Rod  
+EVs: 252 HP / 228 Atk / 28 Def  
+Impish Nature  
+- Flare Blitz  
+- Counter  
+- Rock Slide  
+- Shadow Bone  
+
+THIS IS OVER (Greninja) @ Choice Band  
+Ability: Protean  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Rock Tomb  
+- Gunk Shot  
+- Bounce  
+- Waterfall  
+
+
+=== [gen71v1] goat ===
+
+power surge (Golem-Alola) @ Electrium Z  
+Ability: Sturdy  
+EVs: 32 HP / 252 Atk / 224 Spe  
+Adamant Nature  
+- Protect  
+- Wild Charge  
+- Rock Blast  
+- Counter  
+
+scandal (Krookodile) @ Groundium Z  
+Ability: Intimidate  
+EVs: 252 HP / 144 Atk / 100 Def / 12 Spe  
+Adamant Nature  
+- Substitute  
+- Earthquake  
+- Rock Tomb  
+- Hidden Power [Ice]  
+
+our song (Jirachi) @ Choice Scarf  
+Ability: Serene Grace  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Iron Head  
+- Heart Stamp  
+- Fire Punch  
+- Trick  
+
+
+=== [gen71v1] really bad fwg use in uu maybe ===
+
+Rotom-Wash @ Sitrus Berry  
+Ability: Levitate  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Will-O-Wisp  
+- Protect  
+- Hydro Pump  
+- Discharge  
+
+Talonflame @ Flyinium Z  
+Ability: Gale Wings  
+EVs: 16 HP / 252 Atk / 68 Def / 172 Spe  
+Adamant Nature  
+- Taunt  
+- Substitute  
+- Brave Bird  
+- Bulk Up  
+
+Jumpluff @ Wide Lens  
+Ability: Chlorophyll  
+EVs: 20 HP / 236 Def / 252 Spe  
+Jolly Nature  
+IVs: 0 Atk  
+- Sleep Powder  
+- Leech Seed  
+- Protect  
+- Substitute  
+
+
+=== [gen71v1] entei fwg ===
+
+￼ ￼￼ ￼  ￼ ￼￼ ￼  ￼ ￼￼ ￼  ￼ ￼￼ ￼ (Entei) @ Rockium Z  
+Ability: Pressure  
+Shiny: Yes  
+EVs: 252 HP / 216 Atk / 40 Def  
+Adamant Nature  
+- Stone Edge  
+- Sacred Fire  
+- Extreme Speed  
+- Toxic  
+
+￼ ￼￼ ￼  ￼ ￼￼ ￼ (Venusaur-Mega) @ Venusaurite  
+Ability: Thick Fat  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Sludge Bomb  
+- Leech Seed  
+- Giga Drain  
+- Synthesis  
+
+￼ ￼￼ ￼ (Starmie) @ Psychium Z  
+Ability: Analytic  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Light Screen  
+- Recover  
+- Scald  
+- Psychic  
+
+
+=== [gen71v1] keld fwg ===
+
+space blues (Keldeo) @ Waterium Z  
+Ability: Justified  
+EVs: 64 HP / 252 Def / 192 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Secret Sword  
+- Hidden Power [Electric]  
+- Rain Dance  
+
+awake in a dream (Charizard-Mega-X) @ Charizardite X  
+Ability: Blaze  
+EVs: 252 HP / 136 Atk / 120 Def  
+Adamant Nature  
+- Dragon Dance  
+- Will-O-Wisp  
+- Outrage  
+- Flare Blitz  
+
+despair (Ferrothorn) @ Steelium Z  
+Ability: Iron Barbs  
+EVs: 252 HP / 180 Atk / 76 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Gyro Ball  
+- Power Whip  
+- Protect  
+- Leech Seed  
+
+
+=== [gen71v1] zap ===
+
+rising sun (Zapdos) @ Electrium Z  
+Ability: Pressure  
+EVs: 244 HP / 252 SpA / 12 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Charge  
+- Thunder  
+- Metal Sound  
+- Hidden Power [Ice]  
+
+baby girl (Jirachi) @ Choice Scarf  
+Ability: Serene Grace  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Iron Head  
+- Heart Stamp  
+- Trick  
+- Rest  
+
+fantasy and you (Onix) @ Groundium Z  
+Ability: Sturdy  
+EVs: 252 Atk / 80 Def / 176 Spe  
+Adamant Nature  
+- Rock Tomb  
+- Earthquake  
+- Rock Slide  
+- Screech  
+
+
+=== [gen71v1] celebi fwg ===
+
+rain (Azumarill) @ Waterium Z  
+Ability: Huge Power  
+EVs: 252 HP / 212 Atk / 4 Def / 36 SpD / 4 Spe  
+Adamant Nature  
+- Waterfall  
+- Aqua Jet  
+- Play Rough  
+- Belly Drum  
+
+anguish (Marowak-Alola) @ Thick Club  
+Ability: Lightning Rod  
+EVs: 252 HP / 228 Atk / 28 Def  
+Impish Nature  
+- Counter  
+- Flare Blitz  
+- Shadow Bone  
+- Rock Slide  
+
+lovely (Celebi) @ Grassium Z  
+Ability: Natural Cure  
+EVs: 252 HP / 40 SpD / 216 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Leaf Storm  
+- Psychic  
+- Earth Power  
+
+
+=== [gen71v1] pinsir ===
+
+this is over (Pinsir-Mega) @ Pinsirite  
+Ability: Hyper Cutter  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Bulk Up  
+- Substitute  
+- Flail  
+- Giga Impact  
+
+no return (Charizard-Mega-X) @ Charizardite X  
+Ability: Blaze  
+EVs: 20 Atk / 236 Def / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Will-O-Wisp  
+- Outrage  
+- Flare Blitz  
+
+let that boy play (Venusaur-Mega) @ Venusaurite  
+Ability: Overgrow  
+EVs: 252 HP / 228 Def / 28 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Charm  
+- Synthesis  
+- Giga Drain  
+- Sludge Bomb  
+
+
+=== [gen71v1] borken sketch ===
+
+Lopunny-Mega @ Lopunnite  
+Ability: Scrappy  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Sleep Powder  
+- Substitute  
+- High Jump Kick  
+- Return  
+
+Jirachi @ Choice Scarf  
+Ability: Serene Grace  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Iron Head  
+- Heart Stamp  
+- Zing Zap  
+- Fire Punch  
+
+Pidgeot-Mega @ Pidgeotite  
+Ability: No Guard  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Grass Whistle  
+- Substitute  
+- Hurricane  
+- Heat Wave  
+
+
+=== [gen71v1] double grass kart ===
+
+Kartana @ Choice Band  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Smart Strike  
+- Giga Impact  
+- Sacred Sword  
+
+Landorus @ Choice Scarf  
+Ability: Sheer Force  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Earth Power  
+- Rock Slide  
+- Focus Blast  
+- Hidden Power [Ice]  
+
+Venusaur-Mega @ Venusaurite  
+Ability: Thick Fat  
+EVs: 248 HP / 52 Def / 8 SpA / 200 SpD  
+Relaxed Nature  
+IVs: 0 Atk / 0 Spe  
+- Giga Drain  
+- Amnesia  
+- Charm  
+- Rest  
+
+
+=== [gen71v1] chesnaught fwg ===
+
+Chesnaught @ Grassium Z  
+Ability: Bulletproof  
+EVs: 252 HP / 28 Atk / 228 Spe  
+Adamant Nature  
+- Belly Drum  
+- Poison Jab  
+- Wood Hammer  
+- Drain Punch  
+
+Marowak-Alola @ Thick Club  
+Ability: Rock Head  
+EVs: 252 HP / 228 Atk / 28 Def  
+Impish Nature  
+- Flare Blitz  
+- Shadow Bone  
+- Counter  
+- Stone Edge  
+
+Empoleon @ Waterium Z  
+Ability: Torrent  
+EVs: 252 HP / 80 SpD / 176 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Icy Wind  
+- Confide  
+- Rest  
+- Scald  
+
+
+=== [gen71v1] sketch ===
+
+Gengar @ Fightinium Z  
+Ability: Cursed Body  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sleep Powder  
+- Substitute  
+- Hex  
+- Focus Blast  
+
+Golem @ Rockium Z  
+Ability: Sturdy  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Stone Edge  
+- Earthquake  
+- Sucker Punch  
+- Mirror Coat  
+
+Jirachi @ Normalium Z  
+Ability: Serene Grace  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Yawn  
+- Iron Head  
+- Heart Stamp  
+- Fire Punch  
+
+
+=== [gen71v1] the greatest team of all time ===
+
+Furfrou @ Absorb Bulb  
+Ability: Fur Coat  
+EVs: 252 HP / 12 Def / 28 SpA / 188 SpD / 28 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Rest  
+- Charge Beam  
+- Snarl  
+- Cotton Guard  
+
+Persian-Alola @ Big Root  
+Ability: Fur Coat  
+EVs: 232 HP / 56 Def / 8 SpA / 108 SpD / 104 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hypnosis  
+- Dream Eater  
+- Amnesia  
+- Charm  
+
+Grumpig @ Iapapa Berry  
+Ability: Gluttony  
+EVs: 208 HP / 184 Def / 60 SpA / 16 SpD / 40 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Mirror Coat  
+- Taunt  
+- Psychic  
+- Belch  
+
+
+=== [gen71v1] 🅱oolin ===
+
+jesus christ (Tapu Bulu) @ Choice Band  
+Ability: Grassy Surge  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Horn Leech  
+- Superpower  
+- Stone Edge  
+- Giga Drain  
+
+loses life tonight (Crustle) @ Rockium Z  
+Ability: Sturdy  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Shell Smash  
+- Rock Wrecker  
+- Earthquake  
+- Rock Blast  
+
+oh lord (Charizard-Mega-Y) @ Charizardite Y  
+Ability: Drought  
+EVs: 232 Def / 60 SpA / 216 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hidden Power [Electric]  
+- Solar Beam  
+- Blast Burn  
+- Air Slash  
+
+
+=== [gen71v1] fluffE ===
+
+Furfrou @ Leftovers  
+Ability: Fur Coat  
+EVs: 252 HP / 252 Def / 4 SpD  
+Impish Nature  
+- Cotton Guard  
+- Toxic  
+- Rest  
+- Return  
+
+Blissey @ Fairium Z  
+Ability: Serene Grace  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+- Charm  
+- Soft-Boiled  
+- Seismic Toss  
+- Ice Punch  
+
+Slowbro @ Slowbronite  
+Ability: Oblivious  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Rest  
+- Amnesia  
+- Iron Defense  
+- Growl  
+
+
+=== [gen71v1] mfdoski chomp ===
+
+Garchomp @ Choice Band  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Outrage  
+- Earthquake  
+- Fling  
+- Fire Fang  
+
+Gyarados-Mega (F) @ Gyaradosite  
+Ability: Mold Breaker  
+EVs: 104 HP / 180 Atk / 224 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Outrage  
+- Taunt  
+
+Magearna @ Choice Specs  
+Ability: Soul-Heart  
+EVs: 236 HP / 252 SpA / 20 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Fleur Cannon  
+- Flash Cannon  
+- Hidden Power [Fire]  
+- Thunderbolt  
+
+
+=== [gen71v1] special dragonite ===
+
+fantasy and you (Dragonite) @ Dragonium Z  
+Ability: Multiscale  
+EVs: 244 HP / 252 SpA / 12 Spe  
+Mild Nature  
+- Draco Meteor  
+- Outrage  
+- Fire Blast  
+- Extreme Speed  
+
+palm trees (Ferrothorn) @ Steelium Z  
+Ability: Iron Barbs  
+Shiny: Yes  
+EVs: 252 HP / 180 Atk / 76 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Gyro Ball  
+- Power Whip  
+- Protect  
+- Leech Seed  
+
+baby girl (Blissey) @ Normalium Z  
+Ability: Natural Cure  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+- Toxic  
+- Soft-Boiled  
+- Seismic Toss  
+- Counter  
+
+
+=== [gen71v1] 1v1 aaa ===
+
+effects (Blissey) @ Fairium Z  
+Ability: Multiscale  
+Shiny: Yes  
+EVs: 248 HP / 252 Def / 4 SpD  
+Bold Nature  
+- Seismic Toss  
+- Charm  
+- Counter  
+- Soft-Boiled  
+
+it's a burden (Latios) @ Psychium Z  
+Ability: Turboblaze  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Heal Block  
+- Psyshock  
+- Draco Meteor  
+- Hidden Power [Fire]  
+
+Stunfisk @ Petaya Berry  
+Ability: Adaptability  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Yawn  
+- Endure  
+- Earth Power  
+- Thunder  
+
+
+=== [gen71v1] grara pz ===
+
+Gyarados-Mega @ Gyaradosite  
+Ability: Intimidate  
+EVs: 252 HP / 60 Atk / 96 Def / 100 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Taunt  
+- Outrage  
+
+Porygon-Z @ Choice Scarf  
+Ability: Adaptability  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hyper Beam  
+- Uproar  
+- Shadow Ball  
+- Hidden Power [Fire]  
+
+Aegislash @ Ghostium Z  
+Ability: Stance Change  
+Shiny: Yes  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Quiet Nature  
+- Shadow Ball  
+- Flash Cannon  
+- King's Shield  
+- Shadow Sneak  
+
+
+=== [gen71v1] sub lando accidentally the mfdoski and or kentari team oops ===
+
+Landorus @ Life Orb  
+Ability: Sheer Force  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Substitute  
+- Earth Power  
+- Rock Slide  
+- Psychic  
+
+Magearna @ Choice Specs  
+Ability: Soul-Heart  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Fleur Cannon  
+- Flash Cannon  
+- Hidden Power [Fire]  
+- Thunderbolt  
+
+Gyarados-Mega @ Gyaradosite  
+Ability: Mold Breaker  
+Shiny: Yes  
+EVs: 252 HP / 72 Atk / 96 Def / 88 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Taunt  
+- Outrage  
+
+
+=== [gen71v1] tapu woko ===
+
+bios (Tapu Koko) @ Electrium Z  
+Ability: Electric Surge  
+Shiny: Yes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Substitute  
+- Charge  
+- Thunder  
+- Reflect  
+
+cerulean (Gyarados-Mega) @ Gyaradosite  
+Ability: Intimidate  
+EVs: 88 HP / 144 Atk / 184 Def / 92 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Waterfall  
+- Stone Edge  
+
+meteor blade (Jirachi) @ Choice Scarf  
+Ability: Serene Grace  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Iron Head  
+- Heart Stamp  
+- Trick  
+- Rest  
+
+
+=== [gen71v1] eerie ===
+
+done before (Jumpluff) @ Wide Lens  
+Ability: Chlorophyll  
+EVs: 52 HP / 204 Def / 252 Spe  
+Jolly Nature  
+IVs: 0 Atk  
+- Sleep Powder  
+- Substitute  
+- Leech Seed  
+- Protect  
+
+fear of the dark (Mawile-Mega) @ Mawilite  
+Ability: Intimidate  
+EVs: 252 HP / 228 Atk / 28 Spe  
+Adamant Nature  
+- Iron Head  
+- Play Rough  
+- Sucker Punch  
+- Taunt  
+
+all day all night (Meloetta) @ Choice Specs  
+Ability: Serene Grace  
+EVs: 252 HP / 252 SpA / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hyper Beam  
+- Psyshock  
+- Focus Blast  
+- Trick  
+
+
+=== [gen71v1] manaphy ok ===
+
+Manaphy @ Salac Berry  
+Ability: Hydration  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Tail Glow  
+- Surf  
+- Hyper Beam  
+- Charm  
+
+Charizard-Mega-X @ Charizardite X  
+Ability: Tough Claws  
+EVs: 252 HP / 56 Atk / 200 Def  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Flare Blitz  
+- Counter  
+
+Necrozma @ Assault Vest  
+Ability: Prism Armor  
+EVs: 252 HP / 56 SpA / 92 SpD / 108 Spe  
+Calm Nature  
+- Power Gem  
+- Prismatic Laser  
+- Rock Tomb  
+- Psychic  
+
+
+=== [gen71v1] brocoli ===
+
+aint gonna lie (Machamp) @ Assault Vest  
+Ability: No Guard  
+EVs: 252 HP / 56 Atk / 112 Def / 88 SpD  
+Adamant Nature  
+- Dynamic Punch  
+- Stone Edge  
+- Counter  
+- Thunder Punch  
+
+got no money (Charizard-Mega-X) @ Charizardite X  
+Ability: Tough Claws  
+EVs: 84 HP / 252 Atk / 172 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Outrage  
+- Flare Blitz  
+- Belly Drum  
+
+my qs and my ps (Aggron) @ Rockium Z  
+Ability: Sturdy  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Stone Edge  
+- Heavy Slam  
+- Earthquake  
+- Metal Burst  
+
+
+=== [gen71v1] morza hills fwg ===
+
+mindstate (Charizard-Mega-Y) @ Charizardite Y  
+Ability: Drought  
+EVs: 232 Def / 60 SpA / 216 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hidden Power [Electric]  
+- Solar Beam  
+- Blast Burn  
+- Air Slash  
+
+mine (Cloyster) @ Choice Scarf  
+Ability: Skill Link  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naughty Nature  
+- Icicle Spear  
+- Rock Blast  
+- Hydro Pump  
+- Razor Shell  
+
+springtime stroll (Ferrothorn) @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 64 Def / 192 SpD  
+Careful Nature  
+IVs: 0 Spe  
+- Leech Seed  
+- Protect  
+- Gyro Ball  
+- Power Whip  
+
+
+=== [gen71v1] uc milo memes ===
+
+Milotic @ Weakness Policy  
+Ability: Competitive  
+EVs: 248 HP / 56 Def / 116 SpA / 88 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Icy Wind  
+- Hidden Power [Electric]  
+- Dragon Pulse  
+
+Latios @ Psychium Z  
+Ability: Levitate  
+Shiny: Yes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Heal Block  
+- Psyshock  
+- Draco Meteor  
+- Hidden Power [Fire]  
+
+Metagross @ Metagrossite  
+Ability: Clear Body  
+Shiny: Yes  
+EVs: 252 HP / 48 Atk / 180 Def / 28 Spe  
+Impish Nature  
+- Bullet Punch  
+- Meteor Mash  
+- Thunder Punch  
+- Earthquake  
+
+
+=== [gen71v1] broken af aaa ===
+
+inner demons (Dusclops) @ Eviolite  
+Ability: Normalize  
+EVs: 248 HP / 216 Def / 44 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Haze  
+- Rest  
+- Skill Swap  
+- Will-O-Wisp  
+
+faith in myself (Blissey) @ Fairium Z  
+Ability: Multiscale  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Protect  
+- Charm  
+- Soft-Boiled  
+- Seismic Toss  
+
+real mic right now (Aggron) @ Steelium Z  
+Ability: Sturdy  
+Shiny: Yes  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Heavy Slam  
+- Metal Burst  
+- Stone Edge  
+- Protect  
+
+
+=== [gen71v1] lax ===
+
+the fat ep (Snorlax) @ Normalium Z  
+Ability: Thick Fat  
+EVs: 248 HP / 112 Atk / 136 Def / 12 Spe  
+Adamant Nature  
+- Yawn  
+- Protect  
+- Double-Edge  
+- Belly Drum  
+
+african skhits (Garchomp) @ Choice Band  
+Ability: Rough Skin  
+EVs: 16 HP / 244 Atk / 248 Spe  
+Jolly Nature  
+- Outrage  
+- Earthquake  
+- Stone Edge  
+- Iron Tail  
+
+penthouse (Scizor-Mega) @ Scizorite  
+Ability: Light Metal  
+EVs: 252 HP / 252 Atk / 4 Spe  
+Adamant Nature  
+- Bullet Punch  
+- Metal Claw  
+- Swords Dance  
+- Roost  
+
+
+=== [gen71v1] kentari blastoise ===
+
+YEAH DAT WAY (Magearna) @ Choice Specs  
+Ability: Soul-Heart  
+EVs: 200 HP / 252 SpA / 40 SpD / 16 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Fleur Cannon  
+- Flash Cannon  
+- Thunderbolt  
+- Hidden Power [Fire]  
+
+YEAH YEAH YEAH (Blastoise-Mega) @ Blastoisinite  
+Ability: Mega Launcher  
+EVs: 252 HP / 4 Atk / 252 SpA  
+Modest Nature  
+- Fake Out  
+- Dragon Pulse  
+- Hydro Cannon  
+- Aura Sphere  
+
+YEAH YEAH (Dragonite) @ Choice Band  
+Ability: Multiscale  
+EVs: 248 HP / 252 Atk / 8 Spe  
+Adamant Nature  
+- Outrage  
+- Fire Punch  
+- Extreme Speed  
+- Earthquake  
+
+
+=== [gen71v1] uop dong ===
+
+Golem @ Groundium Z  
+Ability: Sturdy  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Sucker Punch  
+- Earthquake  
+- Rock Tomb  
+- Counter  
+
+Durant @ Choice Band  
+Ability: Hustle  
+EVs: 228 Atk / 28 Def / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Iron Head  
+- Thunder Fang  
+- Superpower  
+
+Kyurem-Black @ Icium Z  
+Ability: Teravolt  
+EVs: 252 HP / 52 Atk / 156 Def / 44 SpD / 4 Spe  
+Adamant Nature  
+- Freeze Shock  
+- Outrage  
+- Substitute  
+- Fusion Bolt  
+
+
+=== [gen71v1] freeze bait ===
+
+that aint my girl (Blissey) @ Fairium Z  
+Ability: Serene Grace  
+EVs: 248 HP / 252 Def / 8 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Charm  
+- Soft-Boiled  
+- Confide  
+
+never knew (Charizard) @ Charizardite Y  
+Ability: Blaze  
+EVs: 232 Def / 60 SpA / 216 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hidden Power [Electric]  
+- Solar Beam  
+- Blast Burn  
+- Will-O-Wisp  
+
+and a friend too (Ferrothorn) @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 40 Atk / 216 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Leech Seed  
+- Gyro Ball  
+- Protect  
+- Power Whip  
+
+
+=== [gen71v1] durant ===
+
+DO THIS ANYMORE (Durant) @ Choice Band  
+Ability: Hustle  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Iron Head  
+- Rock Slide  
+- Thunder Fang  
+- Superpower  
+
+SIPPIN TEA (Mimikyu) @ Iapapa Berry  
+Ability: Disguise  
+EVs: 252 HP / 4 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Taunt  
+- Substitute  
+- Protect  
+- Curse  
+
+LOOK AT ME (Krookodile) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Knock Off  
+- Earthquake  
+- Rock Slide  
+- Superpower  
+
+
+=== [gen71v1] yeet ===
+
+Gardevoir @ Gardevoirite  
+Ability: Trace  
+EVs: 252 HP / 44 Def / 212 SpA  
+Modest Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Hyper Beam  
+- Psychic  
+- Hyper Voice  
+
+Aggron @ Rockium Z  
+Ability: Sturdy  
+EVs: 72 HP / 252 Atk / 184 Spe  
+Adamant Nature  
+- Head Smash  
+- Heavy Slam  
+- Fire Punch  
+- Rock Tomb  
+
+Landorus-Therian @ Groundium Z  
+Ability: Intimidate  
+EVs: 104 HP / 236 Atk / 168 Spe  
+Adamant Nature  
+- Bulk Up  
+- Earthquake  
+- Rock Tomb  
+- Substitute  
+
+
+=== [gen71v1] gettin brain ===
+
+scr (Aron) @ Shell Bell  
+Ability: Sturdy  
+Level: 1  
+Shiny: Yes  
+Serious Nature  
+- Protect  
+- Endeavor  
+- Sandstorm  
+- Metal Burst  
+
+sss (Tapu Fini) @ Choice Specs  
+Ability: Misty Surge  
+EVs: 244 HP / 252 SpA / 12 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Moonblast  
+- Surf  
+- Hidden Power [Rock]  
+
+itb (Diancie) @ Choice Specs  
+Ability: Clear Body  
+EVs: 248 HP / 8 Atk / 252 SpA  
+Quiet Nature  
+- Moonblast  
+- Diamond Storm  
+- Hidden Power [Electric]  
+- Earth Power  
+
+
+=== [gen71v1] old ass scrafty shit ===
+
+i have crabs (Scrafty) @ Choice Band  
+Ability: Intimidate  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- High Jump Kick  
+- Crunch  
+- Thunder Punch  
+- Stone Edge  
+
+blob #1 (Blissey) @ Fairium Z  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+- Seismic Toss  
+- Soft-Boiled  
+- Charm  
+- Counter  
+
+blob #2 (Mew) @ Kee Berry  
+Ability: Synchronize  
+EVs: 252 HP / 80 Def / 176 Spe  
+Jolly Nature  
+IVs: 0 Atk  
+- Will-O-Wisp  
+- Soft-Boiled  
+- Taunt  
+- Seismic Toss  
+
+
+=== [gen71v1] PLUFF FWG LOVELL ===
+
+START SHIT (Jumpluff) @ Wide Lens  
+Ability: Infiltrator  
+EVs: 52 HP / 204 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Leech Seed  
+- Protect  
+- Sleep Powder  
+- Substitute  
+
+ANOTHER LAND (Gastrodon-East) @ Sitrus Berry  
+Ability: Sticky Hold  
+EVs: 252 HP / 236 Def / 20 SpD  
+Bold Nature  
+- Counter  
+- Mirror Coat  
+- Scald  
+- Protect  
+
+ON SOME SHIT (Arcanine) @ Choice Band  
+Ability: Intimidate  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Outrage  
+- Flare Blitz  
+- Extreme Speed  
+- Close Combat  
+
+
+=== [gen71v1] mimi arca ===
+
+Mimikyu @ Ghostium Z  
+Ability: Disguise  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Play Rough  
+- Shadow Claw  
+- Shadow Sneak  
+
+Arcanine @ Choice Band  
+Ability: Intimidate  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Outrage  
+- Flare Blitz  
+- Extreme Speed  
+- Close Combat  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 152 Def / 104 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Leech Seed  
+- Protect  
+- Gyro Ball  
+- Power Whip  
+
+
+=== [gen71v1] no mimi ok ===
+
+LIKE A SON (Dragonite) @ Choice Band  
+Ability: Multiscale  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Outrage  
+- Extreme Speed  
+- Fire Punch  
+- Earthquake  
+
+FUCKED ME UP (Ferrothorn) @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 44 Atk / 212 Def  
+Relaxed Nature  
+- Leech Seed  
+- Protect  
+- Gyro Ball  
+- Power Whip  
+
+DUMB RICH (Kyurem-Black) @ Choice Scarf  
+Ability: Teravolt  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Naughty Nature  
+- Outrage  
+- Ice Beam  
+- Earth Power  
+- Fusion Bolt  
+
+
+=== [gen71v1] clef fairy dragon steel ===
+
+molly got me up (Clefable) @ Leftovers  
+Ability: Magic Guard  
+EVs: 252 HP / 184 Def / 72 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Amnesia  
+- Charm  
+- Soft-Boiled  
+- Moonblast  
+
+feelin broke af (Kyurem-Black) @ Choice Scarf  
+Ability: Teravolt  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Outrage  
+- Ice Beam  
+- Fusion Bolt  
+- Earth Power  
+
+of toys r us (Metagross-Mega) @ Metagrossite  
+Ability: Tough Claws  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Meteor Mash  
+- Zen Headbutt  
+- Earthquake  
+- Bullet Punch  
+
+
+=== [gen71v1] mono steel ===
+
+2047 (Magearna) @ Choice Specs  
+Ability: Soul-Heart  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Flash Cannon  
+- Fleur Cannon  
+- Hidden Power [Fire]  
+- Thunderbolt  
+
+apocalypse (Ferrothorn) @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 48 Atk / 208 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Leech Seed  
+- Protect  
+- Gyro Ball  
+- Power Whip  
+
+dragon soul (Heatran) @ Air Balloon  
+Ability: Flash Fire  
+EVs: 44 HP / 208 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 30 Atk  
+- Fire Blast  
+- Hidden Power [Ice]  
+- Rock Tomb  
+- Earth Power  
+
+
+=== [gen71v1] lc 1v1 ===
+
+pick up the phone (Dwebble) @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Adamant Nature  
+- Shell Smash  
+- Rock Blast  
+- Earthquake  
+- Protect  
+
+pick the phone up (Mienfoo) @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 196 Def / 36 SpD / 236 Spe  
+Jolly Nature  
+- Drain Punch  
+- Knock Off  
+- Fake Out  
+- Poison Jab  
+
+the phone pick up (Hoppip) @ Wide Lens  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 76 HP / 236 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Substitute  
+- Leech Seed  
+- Protect  
+- Sleep Powder  
+
+
+=== [gen71v1] AG 1v1 ===
+
+your love was fake (Rayquaza) @ Focus Sash  
+Ability: Air Lock  
+Shiny: Yes  
+EVs: 252 Atk / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Dragon Ascent  
+- Earthquake  
+- Extreme Speed  
+
+what are we? (Arceus) @ Sitrus Berry  
+Ability: Multitype  
+Shiny: Yes  
+EVs: 252 HP / 176 Def / 72 SpD / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Trick Room  
+- Perish Song  
+- Protect  
+- Recover  
+
+talk slower (Groudon-Primal) @ Red Orb  
+Ability: Desolate Land  
+Shiny: Yes  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Precipice Blades  
+- Fire Punch  
+- Stone Edge  
+- Swords Dance  
+
+
+=== [gen71v1] mono flying ===
+
+world class (Jumpluff) @ Wide Lens  
+Ability: Infiltrator  
+EVs: 52 HP / 204 Def / 252 Spe  
+Jolly Nature  
+IVs: 0 Atk  
+- Sleep Powder  
+- Leech Seed  
+- Substitute  
+- Protect  
+
+new classics (Celesteela) @ Flyinium Z  
+Ability: Beast Boost  
+EVs: 228 HP / 72 Def / 208 SpA  
+Modest Nature  
+IVs: 0 Atk  
+- Air Slash  
+- Leech Seed  
+- Protect  
+- Flash Cannon  
+
+fantasy (Landorus-Therian) @ Groundium Z  
+Ability: Intimidate  
+EVs: 104 HP / 236 Atk / 168 Spe  
+Adamant Nature  
+- Bulk Up  
+- Earthquake  
+- Rock Tomb  
+- Substitute  
+
+
+=== [gen71v1] broken ===
+
+broken 1 (Jirachi) @ Choice Scarf  
+Ability: Serene Grace  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Iron Head  
+- Heart Stamp  
+- Trick  
+- Drain Punch  
+
+broken 2 (Togekiss) @ Choice Scarf  
+Ability: Serene Grace  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Air Slash  
+- Trick  
+- Fire Blast  
+- Dazzling Gleam  
+
+hot spicy boner (Marowak-Alola) @ Thick Club  
+Ability: Rock Head  
+EVs: 240 HP / 252 Atk / 16 Spe  
+Adamant Nature  
+- Flare Blitz  
+- Shadow Bone  
+- Bonemerang  
+- Stone Edge  
+
+
+=== [gen71v1] bad mono fire. ===
+
+Blaziken @ King's Rock  
+Ability: Speed Boost  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+- Fling  
+- Protect  
+- Blast Burn  
+- Focus Blast  
+
+Charizard-Mega-Y @ Charizardite Y  
+Ability: Drought  
+EVs: 232 Def / 60 SpA / 216 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hidden Power [Electric]  
+- Solar Beam  
+- Blast Burn  
+- Ancient Power  
+
+Arcanine @ Choice Scarf  
+Ability: Intimidate  
+EVs: 252 Atk / 104 Def / 152 Spe  
+Adamant Nature  
+- Wild Charge  
+- Flare Blitz  
+- Outrage  
+- Close Combat  
+
+
+=== [gen71v1] specs kyub o-o ===
+
+talk slower (Kyurem-Black) @ Choice Specs  
+Ability: Teravolt  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Ice Beam  
+- Shadow Ball  
+- Earth Power  
+
+night uzi (Tapu Koko) @ Electrium Z  
+Ability: Electric Surge  
+EVs: 60 HP / 232 SpA / 216 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Substitute  
+- Taunt  
+- Charge  
+- Thunder  
+
+your love was fake (Mimikyu) @ Fairium Z  
+Ability: Disguise  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Play Rough  
+- Shadow Claw  
+- Taunt  
+
+
+=== [gen71v1] my kartana ===
+
+some kill (Kartana) @ Choice Band  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Smart Strike  
+- Giga Impact  
+- Sacred Sword  
+
+dug two graves (Landorus) @ Choice Scarf  
+Ability: Sheer Force  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Earth Power  
+- Rock Slide  
+- Focus Blast  
+- Hidden Power [Ice]  
+
+some steal (Krookodile) @ Groundium Z  
+Ability: Intimidate  
+EVs: 252 HP / 112 Atk / 128 Def / 16 SpD  
+Adamant Nature  
+- Earthquake  
+- Rock Tomb  
+- Taunt  
+- Outrage  
+
+
+=== [gen71v1] hehe ===
+
+Octillery @ Waterium Z  
+Ability: Sniper  
+EVs: 252 HP / 252 SpA / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Acid Spray  
+- Energy Ball  
+- Hydro Pump  
+- Fire Blast  
+
+Garchomp @ Choice Band  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Outrage  
+- Earthquake  
+- Rock Tomb  
+- Fire Fang  
+
+Sandslash-Alola @ Shuca Berry  
+Ability: Snow Cloak  
+EVs: 252 HP / 252 Atk / 4 Spe  
+Adamant Nature  
+- Metal Burst  
+- Iron Head  
+- Icicle Crash  
+- Bulldoze  
+
+
+=== [gen71v1] fat banded kyub ===
+
+Kyurem-Black @ Choice Band  
+Ability: Teravolt  
+EVs: 252 HP / 252 Def / 4 Spe  
+Impish Nature  
+- Freeze Shock  
+- Outrage  
+- Fusion Bolt  
+- Stone Edge  
+
+Garchomp @ Choice Band  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Outrage  
+- Fire Fang  
+- Rock Tomb  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hypnosis  
+- Sludge Wave  
+- Shadow Ball  
+- Thunderbolt  
+
+
+=== [gen71v1] bro golem ===
+
+Slowbro-Mega @ Slowbronite  
+Ability: Shell Armor  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Amnesia  
+- Rest  
+- Iron Defense  
+- Scald  
+
+Kyurem-Black @ Choice Scarf  
+Ability: Teravolt  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naughty Nature  
+- Fusion Bolt  
+- Outrage  
+- Ice Beam  
+- Earth Power  
+
+Golem @ Groundium Z  
+Ability: Sturdy  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Sucker Punch  
+- Rock Tomb  
+- Counter  
+
+
+=== [gen71v1] melo buzzwole ===
+
+Meloetta @ Choice Specs  
+Ability: Serene Grace  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Hyper Beam  
+- Focus Blast  
+- Hyper Voice  
+- Shadow Ball  
+
+Buzzwole @ Choice Band  
+Ability: Beast Boost  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Thunder Punch  
+- Superpower  
+- Leech Life  
+- Earthquake  
+
+Charizard-Mega-X @ Charizardite X  
+Ability: Blaze  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Outrage  
+- Flare Blitz  
+- Will-O-Wisp  
+
+
+=== [gen71v1] uc lati ===
+
+Latios @ Psychium Z  
+Ability: Levitate  
+Shiny: Yes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Heal Block  
+- Psyshock  
+- Draco Meteor  
+- Hidden Power [Fire]  
+
+Charizard @ Charizardite Y  
+Ability: Blaze  
+EVs: 232 Def / 60 SpA / 216 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hidden Power [Electric]  
+- Solar Beam  
+- Blast Burn  
+- Will-O-Wisp  
+
+Mimikyu @ Fairium Z  
+Ability: Disguise  
+Shiny: Yes  
+EVs: 252 HP / 168 Atk / 88 Def  
+Adamant Nature  
+- Will-O-Wisp  
+- Shadow Claw  
+- Play Rough  
+- Swords Dance  
+
+
+=== [gen71v1] yung boi ===
+
+Torterra @ Groundium Z  
+Ability: Overgrow  
+Shiny: Yes  
+EVs: 252 HP / 144 Atk / 60 Def / 52 Spe  
+Adamant Nature  
+- Wood Hammer  
+- Earthquake  
+- Curse  
+- Rock Tomb  
+
+Terrakion @ Rockium Z  
+Ability: Justified  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Rock Tomb  
+- Close Combat  
+- Swords Dance  
+- Substitute  
+
+Charizard @ Charizardite Y  
+Ability: Blaze  
+EVs: 232 Def / 224 SpA / 52 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hidden Power [Electric]  
+- Solar Beam  
+- Blast Burn  
+- Will-O-Wisp  
+
+
+=== [gen71v1] kentari dual steel ===
+
+Aegislash @ Ghostium Z  
+Ability: Stance Change  
+Shiny: Yes  
+EVs: 248 HP / 4 Atk / 252 SpA / 4 SpD  
+Quiet Nature  
+IVs: 1 Spe  
+- King's Shield  
+- Shadow Ball  
+- Shadow Sneak  
+- Flash Cannon  
+
+Metagross-Mega @ Metagrossite  
+Ability: Tough Claws  
+EVs: 252 HP / 128 Atk / 60 Def / 68 Spe  
+Impish Nature  
+- Bullet Punch  
+- Meteor Mash  
+- Thunder Punch  
+- Earthquake  
+
+Donphan @ Rockium Z  
+Ability: Sturdy  
+EVs: 252 HP / 252 Atk / 4 Def  
+Brave Nature  
+IVs: 19 Spe  
+- Head Smash  
+- Earthquake  
+- Counter  
+- Ice Shard  
+
+
+=== [gen71v1] lost heroes pinsir + stall ===
+
+Slowbro-Mega @ Slowbronite  
+Ability: Shell Armor  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Rest  
+- Iron Defense  
+- Scald  
+
+Umbreon (F) @ Fairium Z  
+Ability: Synchronize  
+EVs: 248 HP / 100 Def / 160 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Charm  
+- Moonlight  
+- Foul Play  
+- Snarl  
+
+Pinsir-Mega @ Pinsirite  
+Ability: Hyper Cutter  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Bulk Up  
+- Substitute  
+- Earthquake  
+- Giga Impact  
+
+
+=== [gen71v1] lost heroes shitty memes ===
+
+Carracosta @ Rockium Z  
+Ability: Sturdy  
+EVs: 252 Atk / 56 SpD / 200 Spe  
+Jolly Nature  
+- Shell Smash  
+- Stone Edge  
+- Aqua Jet  
+- Earthquake  
+
+Vivillon-Marine @ Leftovers  
+Ability: Compound Eyes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sleep Powder  
+- Hurricane  
+- Substitute  
+- Quiver Dance  
+
+Buzzwole @ Fightinium Z  
+Ability: Beast Boost  
+EVs: 200 HP / 180 Atk / 128 Def  
+Adamant Nature  
+- Hammer Arm  
+- Lunge  
+- Bulk Up  
+- Roost  
+
+
+=== [gen71v1] uc fini ===
+
+black magic (Charizard) @ Charizardite X  
+Ability: Blaze  
+Shiny: Yes  
+EVs: 188 HP / 52 Atk / 16 Def / 252 Spe  
+Jolly Nature  
+- Will-O-Wisp  
+- Dragon Dance  
+- Flare Blitz  
+- Outrage  
+
+silver state (Metagross) @ Metagrossite  
+Ability: Clear Body  
+Shiny: Yes  
+EVs: 248 HP / 48 Atk / 184 Def / 28 Spe  
+Impish Nature  
+- Bullet Punch  
+- Meteor Mash  
+- Thunder Punch  
+- Earthquake  
+
+snowed in (Tapu Fini) @ Choice Specs  
+Ability: Misty Surge  
+EVs: 92 HP / 184 Def / 216 SpA / 16 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Hidden Power [Rock]  
+- Grass Knot  
+- Surf  
+
+
+=== [gen71v1] rngiscancer ===
+
+Metagross-Mega @ Metagrossite  
+Ability: Tough Claws  
+EVs: 80 HP / 252 Atk / 176 Spe  
+Jolly Nature  
+- Meteor Mash  
+- Zen Headbutt  
+- Earthquake  
+- Substitute  
+
+Magnezone @ Electrium Z  
+Ability: Sturdy  
+EVs: 120 HP / 252 SpA / 136 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunder  
+- Flash Cannon  
+- Hidden Power [Ice]  
+- Metal Sound  
+
+Gyarados-Mega (M) @ Gyaradosite  
+Ability: Mold Breaker  
+EVs: 104 HP / 196 Atk / 104 Def / 104 Spe  
+Adamant Nature  
+- Waterfall  
+- Crunch  
+- Outrage  
+- Dragon Dance  
+
+
+=== [gen71v1] elo fini ===
+
+Mawile (F) @ Mawilite  
+Ability: Hyper Cutter  
+EVs: 48 HP / 204 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Play Rough  
+- Iron Head  
+- Sucker Punch  
+- Fire Fang  
+
+Porygon-Z @ Choice Scarf  
+Ability: Adaptability  
+EVs: 144 Def / 172 SpA / 192 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hyper Beam  
+- Uproar  
+- Shadow Ball  
+- Hidden Power [Fire]  
+
+Tapu Fini @ Choice Specs  
+Ability: Misty Surge  
+EVs: 244 HP / 252 SpA / 12 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Hydro Pump  
+- Hidden Power [Electric]  
+- Surf  
+
+
+=== [gen71v1] bandit lop ===
+
+Mimikyu @ Fairium Z  
+Ability: Disguise  
+EVs: 112 HP / 72 Atk / 72 Def / 252 Spe  
+Jolly Nature  
+- Curse  
+- Protect  
+- Substitute  
+- Play Rough  
+
+Lopunny-Mega @ Lopunnite  
+Ability: Limber  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- High Jump Kick  
+- Giga Impact  
+- Ice Punch  
+
+Magnezone @ Electrium Z  
+Ability: Sturdy  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Rash Nature  
+IVs: 0 Atk / 0 SpD  
+- Thunder  
+- Flash Cannon  
+- Electroweb  
+- Mirror Coat  
+
+
+=== [gen71v1] kentari nihilego ===
+
+Greninja @ Choice Specs  
+Ability: Protean  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Cannon  
+- Dark Pulse  
+- Ice Beam  
+- Grass Knot  
+
+Nihilego @ Choice Specs  
+Ability: Beast Boost  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Power Gem  
+- Acid Spray  
+- Sludge Wave  
+- Hidden Power [Ice]  
+
+Slowbro-Mega @ Slowbronite  
+Ability: Shell Armor  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Rest  
+- Amnesia  
+- Iron Defense  
+
+
+=== [gen71v1] kentari pyuku ===
+
+Mew @ Kee Berry  
+Ability: Synchronize  
+EVs: 248 HP / 8 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Taunt  
+- Will-O-Wisp  
+- Roost  
+- Amnesia  
+
+Pyukumuku @ Leftovers  
+Ability: Unaware  
+EVs: 252 HP / 220 Def / 36 SpD  
+Bold Nature  
+- Counter  
+- Soak  
+- Recover  
+- Toxic  
+
+Charizard-Mega-X @ Charizardite X  
+Ability: Blaze  
+EVs: 252 HP / 60 Atk / 180 Def / 16 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Flare Blitz  
+- Will-O-Wisp  
+- Outrage  
+
+
+=== [gen71v1] uop volc ===
+
+Heat (Volcarona) @ Buginium Z  
+Ability: Swarm  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Substitute  
+- Bug Buzz  
+- Overheat  
+- Quiver Dance  
+
+A mere mimi (Mimikyu) @ Fairium Z  
+Ability: Disguise  
+EVs: 200 HP / 152 Atk / 156 Def  
+Adamant Nature  
+- Bulk Up  
+- Play Rough  
+- Shadow Sneak  
+- Shadow Claw  
+
+Godchomp (Garchomp) @ Garchompite  
+Ability: Rough Skin  
+EVs: 252 HP / 176 Def / 76 SpD / 4 Spe  
+Impish Nature  
+- Outrage  
+- Earthquake  
+- Rock Tomb  
+- Surf  
+
+
+=== [gen71v1] Untitled 3 ===
+
+Gyarados-Mega @ Gyaradosite  
+Ability: Mold Breaker  
+EVs: 180 HP / 104 Atk / 224 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Outrage  
+- Crunch  
+
+Celesteela @ Choice Specs  
+Ability: Beast Boost  
+EVs: 252 HP / 224 SpA / 28 SpD / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Air Slash  
+- Flash Cannon  
+- Giga Drain  
+- Hidden Power [Ice]  
+
+Flareon @ Firium Z  
+Ability: Flash Fire  
+EVs: 204 HP / 252 Atk / 52 Spe  
+Adamant Nature  
+- Protect  
+- Substitute  
+- Yawn  
+- Flare Blitz  
+
+
+=== [gen71v1] Untitled 2 ===
+
+Camerupt-Mega @ Cameruptite  
+Ability: Sheer Force  
+EVs: 244 HP / 164 Def / 92 SpA / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Substitute  
+- Fire Blast  
+- Earth Power  
+- Ancient Power  
+
+Ferrothorn @ Steelium Z  
+Ability: Iron Barbs  
+EVs: 252 HP / 176 Atk / 80 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Leech Seed  
+- Protect  
+- Gyro Ball  
+- Power Whip  
+
+Kyurem  
+Ability: Pressure  
+
+
+=== [gen71v1] godsquad ===
+
+Gyarados-Mega @ Gyaradosite  
+Ability: Mold Breaker  
+EVs: 104 HP / 180 Atk / 224 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Outrage  
+- Taunt  
+
+Mawile-Mega @ Mawilite  
+Ability: Intimidate  
+EVs: 248 HP / 192 Atk / 40 SpD / 28 Spe  
+Adamant Nature  
+- Play Rough  
+- Iron Head  
+- Sucker Punch  
+- Metal Burst  
+
+Charizard-Mega-X @ Charizardite X  
+Ability: Tough Claws  
+EVs: 184 HP / 172 Atk / 152 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Will-O-Wisp  
+- Flare Blitz  
+- Outrage  
+
+
+=== [gen71v1] godsquad zardy ===
+
+Mawile-Mega @ Mawilite  
+Ability: Intimidate  
+EVs: 248 HP / 232 Atk / 28 Spe  
+Adamant Nature  
+- Play Rough  
+- Iron Head  
+- Sucker Punch  
+- Taunt  
+
+Gyarados-Mega @ Gyaradosite  
+Ability: Mold Breaker  
+EVs: 104 HP / 180 Atk / 224 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Outrage  
+- Taunt  
+
+Charizard-Mega-Y @ Charizardite Y  
+Ability: Drought  
+EVs: 240 HP / 56 SpA / 28 SpD / 184 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Blast Burn  
+- Air Slash  
+- Solar Beam  
+- Confide
